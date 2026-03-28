@@ -1,0 +1,1001 @@
+Archive_Date,Adult_Child,Age_Profile,Case_Type,Speciality_Name,Specialty_HIPE,Time_Bands,Total,Source.Name
+23-05-2018,Adult,65+,Day Case,Cardiology,H07,18+ Months,141,Hospital_DB_Extract.xlsx
+12-10-2019,Adult,16-64,Outpatient,General Surgery,H06,6-9 Months,99,Hospital_DB_Extract.xlsx
+01-04-2020,Adult,16-64,Outpatient,Cardiology,H07,15-18 Months,146,Hospital_DB_Extract.xlsx
+27-11-2018,Adult,16-64,Outpatient,Ophthalmology,H08,12-15 Months,112,Hospital_DB_Extract.xlsx
+14-08-2018,Adult,65+,Outpatient,General Surgery,H06,9-12 Months,138,Hospital_DB_Extract.xlsx
+25-05-2019,Adult,16-64,Outpatient,General Surgery,H06,15-18 Months,39,Hospital_DB_Extract.xlsx
+06-12-2020,Child,0-15,Day Case,Paed Orthopaedic,H03,18+ Months,67,Hospital_DB_Extract.xlsx
+20-05-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,18+ Months,52,Hospital_DB_Extract.xlsx
+19-03-2020,Adult,16-64,Inpatient,General Surgery,H06,15-18 Months,12,Hospital_DB_Extract.xlsx
+20-06-2018,Adult,65+,Outpatient,General Surgery,H06,3-6 Months,78,Hospital_DB_Extract.xlsx
+08-05-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,0-3 Months,129,Hospital_DB_Extract.xlsx
+23-02-2020,Adult,16-64,Outpatient,Cardiology,H07,18+ Months,50,Hospital_DB_Extract.xlsx
+03-06-2018,Adult,65+,Inpatient,Ophthalmology,H08,15-18 Months,139,Hospital_DB_Extract.xlsx
+27-01-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,18+ Months,106,Hospital_DB_Extract.xlsx
+14-08-2020,Child,0-15,Inpatient,Ophthalmology,H08,0-3 Months,97,Hospital_DB_Extract.xlsx
+03-09-2018,Child,0-15,Inpatient,Paediatric Urology,H05,9-12 Months,33,Hospital_DB_Extract.xlsx
+17-05-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,18+ Months,128,Hospital_DB_Extract.xlsx
+09-09-2019,Adult,16-64,Outpatient,Cardiology,H07,12-15 Months,17,Hospital_DB_Extract.xlsx
+26-11-2018,Child,0-15,Outpatient,Ophthalmology,H08,0-3 Months,146,Hospital_DB_Extract.xlsx
+23-01-2020,Child,0-15,Outpatient,Paediatric Urology,H05,9-12 Months,104,Hospital_DB_Extract.xlsx
+09-08-2019,Child,0-15,Outpatient,Paediatric Urology,H05,9-12 Months,62,Hospital_DB_Extract.xlsx
+08-04-2018,Adult,16-64,Outpatient,Orthopaedics,H01,6-9 Months,128,Hospital_DB_Extract.xlsx
+25-12-2019,Adult,65+,Outpatient,Ophthalmology,H08,18+ Months,114,Hospital_DB_Extract.xlsx
+18-05-2018,Child,0-15,Outpatient,Ophthalmology,H08,3-6 Months,79,Hospital_DB_Extract.xlsx
+01-04-2019,Adult,65+,Day Case,Orthopaedics,H01,18+ Months,69,Hospital_DB_Extract.xlsx
+19-12-2020,Adult,16-64,Outpatient,General Surgery,H06,6-9 Months,9,Hospital_DB_Extract.xlsx
+07-07-2020,Adult,65+,Day Case,Otolaryngology (ENT),H02,18+ Months,62,Hospital_DB_Extract.xlsx
+18-01-2020,Adult,16-64,Day Case,General Surgery,H06,3-6 Months,106,Hospital_DB_Extract.xlsx
+07-04-2018,Adult,65+,Outpatient,General Surgery,H06,18+ Months,74,Hospital_DB_Extract.xlsx
+23-11-2019,Adult,16-64,Day Case,General Surgery,H06,3-6 Months,29,Hospital_DB_Extract.xlsx
+10-10-2019,Adult,16-64,Inpatient,Ophthalmology,H08,15-18 Months,47,Hospital_DB_Extract.xlsx
+13-07-2018,Child,0-15,Day Case,Paediatric Urology,H05,12-15 Months,38,Hospital_DB_Extract.xlsx
+04-10-2018,Adult,16-64,Outpatient,General Surgery,H06,9-12 Months,137,Hospital_DB_Extract.xlsx
+26-12-2018,Child,0-15,Day Case,Paediatric Dermatology,H04,15-18 Months,75,Hospital_DB_Extract.xlsx
+28-12-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,24,Hospital_DB_Extract.xlsx
+09-02-2018,Adult,65+,Inpatient,Orthopaedics,H01,18+ Months,112,Hospital_DB_Extract.xlsx
+23-01-2020,Child,0-15,Outpatient,Paediatric Urology,H05,6-9 Months,92,Hospital_DB_Extract.xlsx
+03-04-2019,Adult,16-64,Outpatient,Ophthalmology,H08,0-3 Months,97,Hospital_DB_Extract.xlsx
+17-07-2018,Adult,16-64,Outpatient,Ophthalmology,H08,3-6 Months,62,Hospital_DB_Extract.xlsx
+17-05-2020,Child,0-15,Outpatient,Paediatric Urology,H05,0-3 Months,135,Hospital_DB_Extract.xlsx
+24-11-2019,Adult,65+,Outpatient,Otolaryngology (ENT),H02,12-15 Months,68,Hospital_DB_Extract.xlsx
+01-09-2020,Adult,16-64,Outpatient,Cardiology,H07,18+ Months,12,Hospital_DB_Extract.xlsx
+23-06-2020,Adult,16-64,Outpatient,Ophthalmology,H08,18+ Months,78,Hospital_DB_Extract.xlsx
+27-04-2020,Child,0-15,Day Case,General Surgery,H06,0-3 Months,85,Hospital_DB_Extract.xlsx
+19-08-2018,Child,0-15,Inpatient,Paed Orthopaedic,H03,3-6 Months,30,Hospital_DB_Extract.xlsx
+09-08-2018,Adult,65+,Outpatient,General Surgery,H06,3-6 Months,107,Hospital_DB_Extract.xlsx
+19-03-2020,Adult,16-64,Day Case,Orthopaedics,H01,18+ Months,64,Hospital_DB_Extract.xlsx
+31-05-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,18+ Months,19,Hospital_DB_Extract.xlsx
+11-07-2018,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,6-9 Months,119,Hospital_DB_Extract.xlsx
+25-02-2020,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,144,Hospital_DB_Extract.xlsx
+13-06-2020,Child,0-15,Outpatient,Orthopaedics,H01,18+ Months,64,Hospital_DB_Extract.xlsx
+19-11-2018,Child,0-15,Day Case,Paed Orthopaedic,H03,12-15 Months,9,Hospital_DB_Extract.xlsx
+25-03-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,6-9 Months,6,Hospital_DB_Extract.xlsx
+03-05-2019,Adult,65+,Outpatient,General Surgery,H06,15-18 Months,82,Hospital_DB_Extract.xlsx
+24-06-2020,Adult,16-64,Outpatient,Cardiology,H07,18+ Months,18,Hospital_DB_Extract.xlsx
+24-10-2019,Child,0-15,Outpatient,General Surgery,H06,15-18 Months,52,Hospital_DB_Extract.xlsx
+01-09-2020,Child,0-15,Day Case,Paediatric Urology,H05,12-15 Months,60,Hospital_DB_Extract.xlsx
+20-12-2020,Adult,16-64,Outpatient,Ophthalmology,H08,18+ Months,143,Hospital_DB_Extract.xlsx
+29-11-2020,Adult,65+,Outpatient,Otolaryngology (ENT),H02,0-3 Months,72,Hospital_DB_Extract.xlsx
+02-09-2018,Adult,65+,Outpatient,Cardiology,H07,0-3 Months,53,Hospital_DB_Extract.xlsx
+12-10-2020,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,6-9 Months,17,Hospital_DB_Extract.xlsx
+16-07-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,3-6 Months,140,Hospital_DB_Extract.xlsx
+03-04-2020,Adult,65+,Outpatient,Orthopaedics,H01,15-18 Months,75,Hospital_DB_Extract.xlsx
+15-02-2020,Child,0-15,Outpatient,Paediatric Urology,H05,15-18 Months,68,Hospital_DB_Extract.xlsx
+14-12-2018,Adult,65+,Outpatient,Ophthalmology,H08,18+ Months,50,Hospital_DB_Extract.xlsx
+23-01-2019,Adult,16-64,Outpatient,Orthopaedics,H01,18+ Months,29,Hospital_DB_Extract.xlsx
+29-05-2019,Adult,16-64,Outpatient,Orthopaedics,H01,18+ Months,132,Hospital_DB_Extract.xlsx
+02-07-2019,Adult,16-64,Outpatient,Cardiology,H07,18+ Months,94,Hospital_DB_Extract.xlsx
+15-09-2018,Adult,65+,Outpatient,Otolaryngology (ENT),H02,12-15 Months,25,Hospital_DB_Extract.xlsx
+13-07-2020,Adult,16-64,Outpatient,Cardiology,H07,0-3 Months,55,Hospital_DB_Extract.xlsx
+19-04-2020,Adult,16-64,Outpatient,Orthopaedics,H01,12-15 Months,100,Hospital_DB_Extract.xlsx
+28-11-2020,Adult,16-64,Day Case,Cardiology,H07,0-3 Months,57,Hospital_DB_Extract.xlsx
+28-10-2020,Adult,16-64,Day Case,Otolaryngology (ENT),H02,9-12 Months,115,Hospital_DB_Extract.xlsx
+12-11-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,6-9 Months,89,Hospital_DB_Extract.xlsx
+02-08-2019,Child,0-15,Outpatient,Cardiology,H07,18+ Months,83,Hospital_DB_Extract.xlsx
+14-09-2019,Adult,65+,Day Case,General Surgery,H06,12-15 Months,5,Hospital_DB_Extract.xlsx
+07-05-2018,Adult,65+,Outpatient,Ophthalmology,H08,0-3 Months,6,Hospital_DB_Extract.xlsx
+18-02-2019,Adult,16-64,Outpatient,General Surgery,H06,9-12 Months,22,Hospital_DB_Extract.xlsx
+04-07-2020,Adult,16-64,Outpatient,Cardiology,H07,9-12 Months,11,Hospital_DB_Extract.xlsx
+11-08-2019,Adult,16-64,Day Case,Orthopaedics,H01,9-12 Months,78,Hospital_DB_Extract.xlsx
+18-05-2019,Child,0-15,Day Case,Paediatric Dermatology,H04,3-6 Months,128,Hospital_DB_Extract.xlsx
+04-05-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,9-12 Months,148,Hospital_DB_Extract.xlsx
+21-09-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,15-18 Months,72,Hospital_DB_Extract.xlsx
+29-11-2018,Adult,16-64,Outpatient,General Surgery,H06,18+ Months,104,Hospital_DB_Extract.xlsx
+06-07-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,9-12 Months,136,Hospital_DB_Extract.xlsx
+25-12-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,3-6 Months,150,Hospital_DB_Extract.xlsx
+26-08-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,15-18 Months,72,Hospital_DB_Extract.xlsx
+15-08-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,6-9 Months,117,Hospital_DB_Extract.xlsx
+19-07-2019,Child,0-15,Day Case,Paediatric Dermatology,H04,18+ Months,1,Hospital_DB_Extract.xlsx
+27-03-2019,Adult,16-64,Outpatient,General Surgery,H06,18+ Months,14,Hospital_DB_Extract.xlsx
+23-10-2018,Child,0-15,Day Case,Paed Orthopaedic,H03,9-12 Months,150,Hospital_DB_Extract.xlsx
+15-02-2019,Adult,16-64,Outpatient,Orthopaedics,H01,9-12 Months,100,Hospital_DB_Extract.xlsx
+09-01-2018,Child,0-15,Day Case,Paediatric Dermatology,H04,15-18 Months,149,Hospital_DB_Extract.xlsx
+31-08-2018,Adult,16-64,Outpatient,Ophthalmology,H08,18+ Months,104,Hospital_DB_Extract.xlsx
+12-09-2019,Adult,16-64,Outpatient,Ophthalmology,H08,18+ Months,93,Hospital_DB_Extract.xlsx
+07-02-2019,Adult,16-64,Outpatient,Orthopaedics,H01,3-6 Months,111,Hospital_DB_Extract.xlsx
+28-02-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,0-3 Months,110,Hospital_DB_Extract.xlsx
+04-09-2018,Adult,65+,Outpatient,General Surgery,H06,15-18 Months,59,Hospital_DB_Extract.xlsx
+11-04-2020,Adult,16-64,Outpatient,General Surgery,H06,9-12 Months,83,Hospital_DB_Extract.xlsx
+10-02-2020,Adult,16-64,Day Case,Orthopaedics,H01,3-6 Months,48,Hospital_DB_Extract.xlsx
+18-03-2019,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,28,Hospital_DB_Extract.xlsx
+01-06-2020,Adult,16-64,Day Case,Otolaryngology (ENT),H02,6-9 Months,39,Hospital_DB_Extract.xlsx
+09-08-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,6-9 Months,70,Hospital_DB_Extract.xlsx
+09-09-2020,Adult,16-64,Outpatient,General Surgery,H06,18+ Months,46,Hospital_DB_Extract.xlsx
+17-01-2018,Adult,16-64,Outpatient,Ophthalmology,H08,18+ Months,27,Hospital_DB_Extract.xlsx
+09-12-2018,Adult,16-64,Outpatient,Orthopaedics,H01,18+ Months,15,Hospital_DB_Extract.xlsx
+16-07-2018,Child,0-15,Outpatient,Otolaryngology (ENT),H02,18+ Months,141,Hospital_DB_Extract.xlsx
+12-06-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,12-15 Months,100,Hospital_DB_Extract.xlsx
+14-01-2020,Child,0-15,Day Case,Paed Orthopaedic,H03,9-12 Months,77,Hospital_DB_Extract.xlsx
+01-10-2020,Adult,16-64,Outpatient,Ophthalmology,H08,18+ Months,109,Hospital_DB_Extract.xlsx
+16-06-2020,Child,0-15,Inpatient,Paediatric Dermatology,H04,15-18 Months,84,Hospital_DB_Extract.xlsx
+24-12-2019,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,18+ Months,134,Hospital_DB_Extract.xlsx
+07-06-2018,Adult,65+,Outpatient,Orthopaedics,H01,18+ Months,132,Hospital_DB_Extract.xlsx
+17-04-2020,Child,0-15,Outpatient,Otolaryngology (ENT),H02,15-18 Months,26,Hospital_DB_Extract.xlsx
+19-11-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,0-3 Months,14,Hospital_DB_Extract.xlsx
+28-01-2019,Adult,65+,Outpatient,General Surgery,H06,9-12 Months,1,Hospital_DB_Extract.xlsx
+03-08-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,18+ Months,39,Hospital_DB_Extract.xlsx
+11-03-2018,Child,0-15,Inpatient,Paediatric Dermatology,H04,18+ Months,14,Hospital_DB_Extract.xlsx
+19-10-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,5,Hospital_DB_Extract.xlsx
+12-08-2019,Adult,16-64,Outpatient,Ophthalmology,H08,3-6 Months,100,Hospital_DB_Extract.xlsx
+03-10-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,3-6 Months,61,Hospital_DB_Extract.xlsx
+08-01-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,9-12 Months,18,Hospital_DB_Extract.xlsx
+04-08-2019,Child,0-15,Outpatient,Paediatric Urology,H05,0-3 Months,102,Hospital_DB_Extract.xlsx
+09-10-2020,Adult,65+,Inpatient,Orthopaedics,H01,6-9 Months,21,Hospital_DB_Extract.xlsx
+07-03-2019,Adult,16-64,Outpatient,Ophthalmology,H08,6-9 Months,15,Hospital_DB_Extract.xlsx
+01-10-2020,Adult,16-64,Outpatient,Orthopaedics,H01,3-6 Months,85,Hospital_DB_Extract.xlsx
+03-10-2019,Child,0-15,Inpatient,General Surgery,H06,15-18 Months,61,Hospital_DB_Extract.xlsx
+14-06-2018,Adult,65+,Outpatient,Orthopaedics,H01,0-3 Months,38,Hospital_DB_Extract.xlsx
+02-01-2020,Child,0-15,Outpatient,Paediatric Urology,H05,15-18 Months,54,Hospital_DB_Extract.xlsx
+30-03-2018,Child,0-15,Outpatient,Paediatric Urology,H05,12-15 Months,113,Hospital_DB_Extract.xlsx
+14-09-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,9-12 Months,48,Hospital_DB_Extract.xlsx
+14-01-2018,Child,0-15,Outpatient,Otolaryngology (ENT),H02,12-15 Months,6,Hospital_DB_Extract.xlsx
+03-03-2019,Adult,65+,Day Case,Otolaryngology (ENT),H02,15-18 Months,113,Hospital_DB_Extract.xlsx
+17-09-2019,Child,0-15,Outpatient,Ophthalmology,H08,12-15 Months,134,Hospital_DB_Extract.xlsx
+21-11-2020,Child,0-15,Outpatient,Orthopaedics,H01,0-3 Months,150,Hospital_DB_Extract.xlsx
+17-01-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,12-15 Months,140,Hospital_DB_Extract.xlsx
+10-03-2018,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,23,Hospital_DB_Extract.xlsx
+25-05-2020,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,12-15 Months,63,Hospital_DB_Extract.xlsx
+06-10-2019,Adult,16-64,Inpatient,Orthopaedics,H01,18+ Months,70,Hospital_DB_Extract.xlsx
+05-10-2019,Child,0-15,Inpatient,Orthopaedics,H01,6-9 Months,142,Hospital_DB_Extract.xlsx
+14-06-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,6-9 Months,7,Hospital_DB_Extract.xlsx
+13-08-2020,Adult,65+,Outpatient,Otolaryngology (ENT),H02,3-6 Months,82,Hospital_DB_Extract.xlsx
+25-01-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,18+ Months,59,Hospital_DB_Extract.xlsx
+18-12-2019,Adult,65+,Outpatient,Ophthalmology,H08,12-15 Months,62,Hospital_DB_Extract.xlsx
+17-01-2019,Child,0-15,Inpatient,General Surgery,H06,9-12 Months,25,Hospital_DB_Extract.xlsx
+12-12-2019,Child,0-15,Inpatient,Paediatric Dermatology,H04,6-9 Months,135,Hospital_DB_Extract.xlsx
+17-05-2018,Adult,65+,Outpatient,Cardiology,H07,18+ Months,140,Hospital_DB_Extract.xlsx
+07-10-2019,Adult,65+,Day Case,Orthopaedics,H01,15-18 Months,58,Hospital_DB_Extract.xlsx
+05-02-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,15-18 Months,85,Hospital_DB_Extract.xlsx
+18-01-2020,Child,0-15,Outpatient,Ophthalmology,H08,6-9 Months,90,Hospital_DB_Extract.xlsx
+21-10-2018,Adult,16-64,Outpatient,Cardiology,H07,0-3 Months,12,Hospital_DB_Extract.xlsx
+12-09-2018,Child,0-15,Outpatient,Cardiology,H07,12-15 Months,88,Hospital_DB_Extract.xlsx
+18-09-2019,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,0-3 Months,147,Hospital_DB_Extract.xlsx
+24-09-2018,Adult,16-64,Outpatient,General Surgery,H06,3-6 Months,129,Hospital_DB_Extract.xlsx
+15-07-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,141,Hospital_DB_Extract.xlsx
+05-06-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,9-12 Months,134,Hospital_DB_Extract.xlsx
+29-05-2018,Adult,65+,Outpatient,Cardiology,H07,3-6 Months,150,Hospital_DB_Extract.xlsx
+27-08-2018,Child,0-15,Outpatient,Paediatric Urology,H05,3-6 Months,54,Hospital_DB_Extract.xlsx
+13-11-2018,Adult,16-64,Outpatient,Orthopaedics,H01,18+ Months,21,Hospital_DB_Extract.xlsx
+15-12-2020,Child,0-15,Outpatient,Otolaryngology (ENT),H02,18+ Months,51,Hospital_DB_Extract.xlsx
+05-11-2019,Child,0-15,Outpatient,General Surgery,H06,18+ Months,99,Hospital_DB_Extract.xlsx
+08-01-2018,Child,0-15,Day Case,Paediatric Urology,H05,9-12 Months,13,Hospital_DB_Extract.xlsx
+26-07-2018,Child,0-15,Inpatient,Paed Orthopaedic,H03,0-3 Months,83,Hospital_DB_Extract.xlsx
+06-03-2020,Adult,16-64,Inpatient,Otolaryngology (ENT),H02,15-18 Months,25,Hospital_DB_Extract.xlsx
+23-12-2018,Adult,16-64,Day Case,Ophthalmology,H08,9-12 Months,85,Hospital_DB_Extract.xlsx
+29-09-2018,Adult,65+,Outpatient,Otolaryngology (ENT),H02,6-9 Months,23,Hospital_DB_Extract.xlsx
+19-06-2018,Adult,16-64,Outpatient,Cardiology,H07,18+ Months,109,Hospital_DB_Extract.xlsx
+27-10-2018,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,7,Hospital_DB_Extract.xlsx
+13-04-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,18+ Months,22,Hospital_DB_Extract.xlsx
+10-05-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,3-6 Months,136,Hospital_DB_Extract.xlsx
+25-03-2019,Adult,16-64,Outpatient,Orthopaedics,H01,18+ Months,132,Hospital_DB_Extract.xlsx
+30-08-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,12-15 Months,2,Hospital_DB_Extract.xlsx
+11-08-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,18+ Months,5,Hospital_DB_Extract.xlsx
+24-07-2019,Adult,16-64,Outpatient,General Surgery,H06,9-12 Months,6,Hospital_DB_Extract.xlsx
+25-04-2018,Adult,65+,Outpatient,General Surgery,H06,12-15 Months,90,Hospital_DB_Extract.xlsx
+11-08-2020,Adult,16-64,Outpatient,Cardiology,H07,6-9 Months,53,Hospital_DB_Extract.xlsx
+11-02-2018,Adult,16-64,Outpatient,Ophthalmology,H08,18+ Months,58,Hospital_DB_Extract.xlsx
+16-07-2018,Adult,16-64,Outpatient,Orthopaedics,H01,0-3 Months,34,Hospital_DB_Extract.xlsx
+04-07-2020,Adult,16-64,Day Case,Otolaryngology (ENT),H02,3-6 Months,30,Hospital_DB_Extract.xlsx
+05-09-2018,Adult,16-64,Outpatient,Orthopaedics,H01,18+ Months,4,Hospital_DB_Extract.xlsx
+03-11-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,9-12 Months,124,Hospital_DB_Extract.xlsx
+11-01-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,0-3 Months,9,Hospital_DB_Extract.xlsx
+25-07-2020,Child,0-15,Outpatient,Ophthalmology,H08,6-9 Months,127,Hospital_DB_Extract.xlsx
+04-12-2019,Adult,65+,Inpatient,Orthopaedics,H01,12-15 Months,45,Hospital_DB_Extract.xlsx
+28-05-2019,Adult,16-64,Outpatient,General Surgery,H06,15-18 Months,46,Hospital_DB_Extract.xlsx
+10-10-2018,Adult,16-64,Outpatient,General Surgery,H06,6-9 Months,131,Hospital_DB_Extract.xlsx
+08-06-2020,Adult,16-64,Outpatient,General Surgery,H06,18+ Months,85,Hospital_DB_Extract.xlsx
+01-11-2020,Child,0-15,Outpatient,General Surgery,H06,15-18 Months,125,Hospital_DB_Extract.xlsx
+04-08-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,3-6 Months,103,Hospital_DB_Extract.xlsx
+26-04-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,6-9 Months,97,Hospital_DB_Extract.xlsx
+21-02-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,0-3 Months,128,Hospital_DB_Extract.xlsx
+02-02-2020,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,9-12 Months,80,Hospital_DB_Extract.xlsx
+01-12-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,6-9 Months,131,Hospital_DB_Extract.xlsx
+12-09-2018,Adult,65+,Outpatient,Orthopaedics,H01,18+ Months,109,Hospital_DB_Extract.xlsx
+14-06-2018,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,0-3 Months,128,Hospital_DB_Extract.xlsx
+02-02-2019,Adult,65+,Outpatient,Ophthalmology,H08,18+ Months,140,Hospital_DB_Extract.xlsx
+04-06-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,18+ Months,62,Hospital_DB_Extract.xlsx
+24-10-2020,Child,0-15,Outpatient,Paediatric Urology,H05,15-18 Months,89,Hospital_DB_Extract.xlsx
+09-09-2019,Child,0-15,Outpatient,Paediatric Urology,H05,3-6 Months,30,Hospital_DB_Extract.xlsx
+12-05-2020,Child,0-15,Outpatient,Paediatric Urology,H05,3-6 Months,42,Hospital_DB_Extract.xlsx
+15-09-2019,Adult,16-64,Day Case,Orthopaedics,H01,18+ Months,9,Hospital_DB_Extract.xlsx
+24-08-2018,Adult,16-64,Outpatient,Cardiology,H07,18+ Months,144,Hospital_DB_Extract.xlsx
+09-12-2018,Adult,16-64,Outpatient,Ophthalmology,H08,18+ Months,117,Hospital_DB_Extract.xlsx
+22-08-2020,Child,0-15,Outpatient,Otolaryngology (ENT),H02,3-6 Months,59,Hospital_DB_Extract.xlsx
+19-05-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,15-18 Months,119,Hospital_DB_Extract.xlsx
+14-08-2020,Adult,16-64,Outpatient,Orthopaedics,H01,18+ Months,59,Hospital_DB_Extract.xlsx
+24-04-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,15-18 Months,69,Hospital_DB_Extract.xlsx
+27-12-2018,Adult,16-64,Outpatient,Ophthalmology,H08,18+ Months,110,Hospital_DB_Extract.xlsx
+31-05-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,6-9 Months,104,Hospital_DB_Extract.xlsx
+13-05-2018,Child,0-15,Outpatient,Paediatric Urology,H05,12-15 Months,16,Hospital_DB_Extract.xlsx
+16-08-2018,Adult,65+,Day Case,Orthopaedics,H01,6-9 Months,6,Hospital_DB_Extract.xlsx
+26-03-2019,Adult,65+,Day Case,Otolaryngology (ENT),H02,18+ Months,4,Hospital_DB_Extract.xlsx
+13-01-2018,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,18+ Months,18,Hospital_DB_Extract.xlsx
+31-01-2020,Child,0-15,Day Case,Cardiology,H07,12-15 Months,96,Hospital_DB_Extract.xlsx
+20-02-2019,Adult,16-64,Outpatient,Cardiology,H07,18+ Months,119,Hospital_DB_Extract.xlsx
+24-08-2018,Child,0-15,Day Case,Paediatric Dermatology,H04,18+ Months,86,Hospital_DB_Extract.xlsx
+14-01-2019,Child,0-15,Outpatient,Paediatric Urology,H05,0-3 Months,65,Hospital_DB_Extract.xlsx
+31-08-2018,Child,0-15,Day Case,Otolaryngology (ENT),H02,6-9 Months,60,Hospital_DB_Extract.xlsx
+27-03-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,3-6 Months,66,Hospital_DB_Extract.xlsx
+29-06-2020,Child,0-15,Inpatient,Paediatric Urology,H05,3-6 Months,102,Hospital_DB_Extract.xlsx
+14-04-2018,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,15-18 Months,101,Hospital_DB_Extract.xlsx
+19-02-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,15-18 Months,47,Hospital_DB_Extract.xlsx
+30-06-2019,Child,0-15,Day Case,Paed Orthopaedic,H03,12-15 Months,40,Hospital_DB_Extract.xlsx
+06-10-2020,Child,0-15,Day Case,Cardiology,H07,15-18 Months,142,Hospital_DB_Extract.xlsx
+05-11-2020,Child,0-15,Outpatient,Otolaryngology (ENT),H02,18+ Months,88,Hospital_DB_Extract.xlsx
+09-07-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,148,Hospital_DB_Extract.xlsx
+06-02-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,128,Hospital_DB_Extract.xlsx
+25-05-2018,Child,0-15,Outpatient,Paediatric Urology,H05,15-18 Months,43,Hospital_DB_Extract.xlsx
+05-05-2020,Child,0-15,Inpatient,Otolaryngology (ENT),H02,6-9 Months,37,Hospital_DB_Extract.xlsx
+03-11-2020,Child,0-15,Outpatient,Ophthalmology,H08,6-9 Months,143,Hospital_DB_Extract.xlsx
+19-06-2019,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,22,Hospital_DB_Extract.xlsx
+26-09-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,3-6 Months,25,Hospital_DB_Extract.xlsx
+09-12-2020,Adult,16-64,Day Case,General Surgery,H06,0-3 Months,116,Hospital_DB_Extract.xlsx
+25-08-2018,Adult,16-64,Outpatient,Cardiology,H07,6-9 Months,12,Hospital_DB_Extract.xlsx
+20-02-2019,Adult,16-64,Outpatient,Ophthalmology,H08,12-15 Months,42,Hospital_DB_Extract.xlsx
+08-06-2019,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,6-9 Months,40,Hospital_DB_Extract.xlsx
+15-12-2018,Child,0-15,Inpatient,Paediatric Dermatology,H04,3-6 Months,49,Hospital_DB_Extract.xlsx
+13-02-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,6-9 Months,144,Hospital_DB_Extract.xlsx
+06-08-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,3-6 Months,19,Hospital_DB_Extract.xlsx
+10-07-2018,Adult,16-64,Outpatient,Ophthalmology,H08,12-15 Months,37,Hospital_DB_Extract.xlsx
+22-07-2018,Adult,16-64,Outpatient,General Surgery,H06,0-3 Months,61,Hospital_DB_Extract.xlsx
+28-12-2018,Adult,16-64,Outpatient,Orthopaedics,H01,0-3 Months,77,Hospital_DB_Extract.xlsx
+24-06-2018,Adult,16-64,Outpatient,Cardiology,H07,15-18 Months,98,Hospital_DB_Extract.xlsx
+05-08-2020,Adult,16-64,Outpatient,General Surgery,H06,9-12 Months,80,Hospital_DB_Extract.xlsx
+11-12-2019,Child,0-15,Inpatient,General Surgery,H06,9-12 Months,4,Hospital_DB_Extract.xlsx
+20-11-2019,Adult,16-64,Outpatient,Cardiology,H07,12-15 Months,149,Hospital_DB_Extract.xlsx
+10-06-2019,Child,0-15,Outpatient,Paediatric Urology,H05,3-6 Months,18,Hospital_DB_Extract.xlsx
+18-08-2020,Adult,16-64,Day Case,Cardiology,H07,9-12 Months,120,Hospital_DB_Extract.xlsx
+26-11-2019,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,15-18 Months,64,Hospital_DB_Extract.xlsx
+18-05-2020,Adult,16-64,Day Case,Orthopaedics,H01,6-9 Months,13,Hospital_DB_Extract.xlsx
+23-05-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,12-15 Months,88,Hospital_DB_Extract.xlsx
+11-06-2018,Child,0-15,Outpatient,Paediatric Urology,H05,15-18 Months,55,Hospital_DB_Extract.xlsx
+19-12-2020,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,18+ Months,52,Hospital_DB_Extract.xlsx
+07-10-2019,Child,0-15,Outpatient,Ophthalmology,H08,0-3 Months,12,Hospital_DB_Extract.xlsx
+20-06-2018,Adult,16-64,Inpatient,Cardiology,H07,3-6 Months,132,Hospital_DB_Extract.xlsx
+15-10-2018,Child,0-15,Day Case,Paed Orthopaedic,H03,3-6 Months,2,Hospital_DB_Extract.xlsx
+22-11-2019,Adult,16-64,Outpatient,Cardiology,H07,15-18 Months,139,Hospital_DB_Extract.xlsx
+03-01-2018,Child,0-15,Inpatient,Paediatric Urology,H05,6-9 Months,145,Hospital_DB_Extract.xlsx
+05-08-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,0-3 Months,59,Hospital_DB_Extract.xlsx
+08-10-2019,Adult,16-64,Day Case,Cardiology,H07,9-12 Months,145,Hospital_DB_Extract.xlsx
+08-08-2019,Adult,16-64,Day Case,Otolaryngology (ENT),H02,18+ Months,122,Hospital_DB_Extract.xlsx
+20-11-2018,Child,0-15,Outpatient,Paediatric Urology,H05,15-18 Months,6,Hospital_DB_Extract.xlsx
+09-02-2019,Child,0-15,Outpatient,Paediatric Urology,H05,0-3 Months,13,Hospital_DB_Extract.xlsx
+04-10-2020,Adult,16-64,Outpatient,Orthopaedics,H01,9-12 Months,2,Hospital_DB_Extract.xlsx
+03-02-2019,Child,0-15,Day Case,Paediatric Urology,H05,12-15 Months,122,Hospital_DB_Extract.xlsx
+14-07-2020,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,0-3 Months,62,Hospital_DB_Extract.xlsx
+24-11-2018,Adult,16-64,Outpatient,Cardiology,H07,6-9 Months,128,Hospital_DB_Extract.xlsx
+11-10-2018,Child,0-15,Inpatient,Paediatric Urology,H05,6-9 Months,16,Hospital_DB_Extract.xlsx
+06-02-2020,Child,0-15,Inpatient,Paed Orthopaedic,H03,0-3 Months,21,Hospital_DB_Extract.xlsx
+23-06-2019,Adult,65+,Inpatient,General Surgery,H06,6-9 Months,135,Hospital_DB_Extract.xlsx
+23-04-2019,Child,0-15,Outpatient,Paediatric Urology,H05,15-18 Months,11,Hospital_DB_Extract.xlsx
+10-09-2020,Adult,16-64,Outpatient,General Surgery,H06,12-15 Months,18,Hospital_DB_Extract.xlsx
+01-12-2019,Child,0-15,Outpatient,Paediatric Urology,H05,9-12 Months,93,Hospital_DB_Extract.xlsx
+18-08-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,3-6 Months,2,Hospital_DB_Extract.xlsx
+11-12-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,135,Hospital_DB_Extract.xlsx
+02-05-2019,Child,0-15,Outpatient,Orthopaedics,H01,18+ Months,19,Hospital_DB_Extract.xlsx
+18-05-2019,Adult,16-64,Outpatient,Orthopaedics,H01,18+ Months,70,Hospital_DB_Extract.xlsx
+11-04-2019,Child,0-15,Outpatient,Orthopaedics,H01,18+ Months,117,Hospital_DB_Extract.xlsx
+11-09-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,18+ Months,144,Hospital_DB_Extract.xlsx
+04-02-2019,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,36,Hospital_DB_Extract.xlsx
+15-07-2019,Adult,16-64,Outpatient,Orthopaedics,H01,18+ Months,138,Hospital_DB_Extract.xlsx
+02-03-2018,Adult,16-64,Outpatient,General Surgery,H06,3-6 Months,45,Hospital_DB_Extract.xlsx
+04-01-2018,Child,0-15,Outpatient,Orthopaedics,H01,18+ Months,24,Hospital_DB_Extract.xlsx
+06-03-2020,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,15-18 Months,145,Hospital_DB_Extract.xlsx
+16-02-2018,Adult,65+,Outpatient,Ophthalmology,H08,18+ Months,134,Hospital_DB_Extract.xlsx
+25-08-2019,Child,0-15,Outpatient,Otolaryngology (ENT),H02,12-15 Months,147,Hospital_DB_Extract.xlsx
+24-05-2019,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,3-6 Months,108,Hospital_DB_Extract.xlsx
+01-12-2019,Adult,65+,Day Case,General Surgery,H06,3-6 Months,86,Hospital_DB_Extract.xlsx
+14-04-2019,Adult,65+,Outpatient,Cardiology,H07,3-6 Months,69,Hospital_DB_Extract.xlsx
+05-06-2019,Adult,65+,Day Case,Cardiology,H07,12-15 Months,138,Hospital_DB_Extract.xlsx
+04-11-2019,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,42,Hospital_DB_Extract.xlsx
+14-03-2020,Child,0-15,Outpatient,Ophthalmology,H08,18+ Months,98,Hospital_DB_Extract.xlsx
+06-05-2020,Adult,16-64,Outpatient,General Surgery,H06,15-18 Months,149,Hospital_DB_Extract.xlsx
+25-07-2018,Adult,65+,Outpatient,Ophthalmology,H08,0-3 Months,57,Hospital_DB_Extract.xlsx
+26-06-2019,Adult,16-64,Outpatient,Ophthalmology,H08,12-15 Months,77,Hospital_DB_Extract.xlsx
+23-07-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,18+ Months,104,Hospital_DB_Extract.xlsx
+09-06-2019,Child,0-15,Outpatient,Paediatric Urology,H05,9-12 Months,108,Hospital_DB_Extract.xlsx
+13-01-2019,Adult,65+,Outpatient,General Surgery,H06,6-9 Months,127,Hospital_DB_Extract.xlsx
+04-11-2019,Adult,16-64,Day Case,General Surgery,H06,3-6 Months,119,Hospital_DB_Extract.xlsx
+01-07-2018,Adult,16-64,Outpatient,Ophthalmology,H08,18+ Months,123,Hospital_DB_Extract.xlsx
+04-10-2018,Child,0-15,Outpatient,Ophthalmology,H08,3-6 Months,115,Hospital_DB_Extract.xlsx
+25-11-2019,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,18+ Months,9,Hospital_DB_Extract.xlsx
+24-05-2018,Adult,16-64,Outpatient,Orthopaedics,H01,3-6 Months,26,Hospital_DB_Extract.xlsx
+24-10-2020,Adult,16-64,Outpatient,Cardiology,H07,6-9 Months,102,Hospital_DB_Extract.xlsx
+29-09-2018,Adult,65+,Outpatient,Ophthalmology,H08,18+ Months,109,Hospital_DB_Extract.xlsx
+25-08-2019,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,29,Hospital_DB_Extract.xlsx
+08-03-2018,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,27,Hospital_DB_Extract.xlsx
+20-12-2019,Adult,65+,Outpatient,Otolaryngology (ENT),H02,18+ Months,37,Hospital_DB_Extract.xlsx
+17-07-2020,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,18+ Months,43,Hospital_DB_Extract.xlsx
+18-07-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,9-12 Months,47,Hospital_DB_Extract.xlsx
+01-02-2019,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,1,Hospital_DB_Extract.xlsx
+16-12-2018,Child,0-15,Day Case,Paediatric Dermatology,H04,15-18 Months,58,Hospital_DB_Extract.xlsx
+29-02-2020,Adult,65+,Outpatient,Otolaryngology (ENT),H02,3-6 Months,6,Hospital_DB_Extract.xlsx
+30-10-2018,Adult,16-64,Outpatient,Orthopaedics,H01,3-6 Months,148,Hospital_DB_Extract.xlsx
+11-12-2020,Child,0-15,Day Case,Ophthalmology,H08,6-9 Months,96,Hospital_DB_Extract.xlsx
+09-06-2018,Child,0-15,Day Case,Paediatric Dermatology,H04,0-3 Months,117,Hospital_DB_Extract.xlsx
+07-11-2018,Adult,16-64,Outpatient,Cardiology,H07,15-18 Months,4,Hospital_DB_Extract.xlsx
+15-01-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,0-3 Months,65,Hospital_DB_Extract.xlsx
+10-09-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,6-9 Months,16,Hospital_DB_Extract.xlsx
+06-01-2020,Adult,16-64,Day Case,Ophthalmology,H08,6-9 Months,39,Hospital_DB_Extract.xlsx
+07-07-2019,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,18+ Months,1,Hospital_DB_Extract.xlsx
+31-10-2020,Adult,16-64,Day Case,Ophthalmology,H08,12-15 Months,145,Hospital_DB_Extract.xlsx
+21-11-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,15-18 Months,132,Hospital_DB_Extract.xlsx
+06-11-2019,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,102,Hospital_DB_Extract.xlsx
+25-04-2020,Adult,65+,Day Case,Cardiology,H07,3-6 Months,90,Hospital_DB_Extract.xlsx
+12-07-2020,Adult,16-64,Outpatient,General Surgery,H06,3-6 Months,45,Hospital_DB_Extract.xlsx
+25-08-2018,Child,0-15,Day Case,General Surgery,H06,15-18 Months,150,Hospital_DB_Extract.xlsx
+02-07-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,70,Hospital_DB_Extract.xlsx
+20-06-2018,Adult,65+,Outpatient,Cardiology,H07,18+ Months,14,Hospital_DB_Extract.xlsx
+10-06-2020,Adult,16-64,Outpatient,Cardiology,H07,18+ Months,12,Hospital_DB_Extract.xlsx
+13-04-2020,Adult,65+,Outpatient,Orthopaedics,H01,15-18 Months,141,Hospital_DB_Extract.xlsx
+24-01-2019,Adult,16-64,Day Case,Otolaryngology (ENT),H02,9-12 Months,19,Hospital_DB_Extract.xlsx
+05-02-2020,Adult,65+,Outpatient,Ophthalmology,H08,15-18 Months,136,Hospital_DB_Extract.xlsx
+27-08-2019,Adult,16-64,Outpatient,General Surgery,H06,0-3 Months,118,Hospital_DB_Extract.xlsx
+18-08-2019,Adult,65+,Outpatient,Ophthalmology,H08,3-6 Months,92,Hospital_DB_Extract.xlsx
+24-08-2018,Adult,16-64,Day Case,General Surgery,H06,3-6 Months,44,Hospital_DB_Extract.xlsx
+28-07-2018,Child,0-15,Outpatient,Ophthalmology,H08,9-12 Months,128,Hospital_DB_Extract.xlsx
+06-10-2019,Child,0-15,Outpatient,General Surgery,H06,18+ Months,80,Hospital_DB_Extract.xlsx
+02-06-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,3-6 Months,88,Hospital_DB_Extract.xlsx
+05-06-2018,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,0-3 Months,47,Hospital_DB_Extract.xlsx
+06-07-2019,Adult,65+,Outpatient,Cardiology,H07,15-18 Months,78,Hospital_DB_Extract.xlsx
+19-02-2020,Child,0-15,Day Case,Paediatric Dermatology,H04,18+ Months,69,Hospital_DB_Extract.xlsx
+18-12-2020,Adult,16-64,Outpatient,General Surgery,H06,9-12 Months,64,Hospital_DB_Extract.xlsx
+28-05-2018,Child,0-15,Inpatient,Paediatric Dermatology,H04,6-9 Months,62,Hospital_DB_Extract.xlsx
+24-11-2018,Child,0-15,Outpatient,General Surgery,H06,6-9 Months,78,Hospital_DB_Extract.xlsx
+18-05-2018,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,18+ Months,66,Hospital_DB_Extract.xlsx
+19-10-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,3-6 Months,23,Hospital_DB_Extract.xlsx
+25-05-2018,Adult,65+,Outpatient,Orthopaedics,H01,18+ Months,12,Hospital_DB_Extract.xlsx
+10-01-2018,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,42,Hospital_DB_Extract.xlsx
+17-01-2019,Child,0-15,Inpatient,Paediatric Urology,H05,3-6 Months,119,Hospital_DB_Extract.xlsx
+18-09-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,18+ Months,63,Hospital_DB_Extract.xlsx
+09-08-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,12-15 Months,103,Hospital_DB_Extract.xlsx
+24-03-2019,Adult,16-64,Day Case,Otolaryngology (ENT),H02,0-3 Months,17,Hospital_DB_Extract.xlsx
+21-06-2019,Adult,16-64,Outpatient,General Surgery,H06,6-9 Months,102,Hospital_DB_Extract.xlsx
+11-02-2019,Adult,65+,Outpatient,Orthopaedics,H01,3-6 Months,16,Hospital_DB_Extract.xlsx
+06-08-2019,Adult,65+,Outpatient,Cardiology,H07,18+ Months,136,Hospital_DB_Extract.xlsx
+17-12-2018,Adult,65+,Day Case,Ophthalmology,H08,0-3 Months,14,Hospital_DB_Extract.xlsx
+19-01-2020,Child,0-15,Outpatient,General Surgery,H06,18+ Months,95,Hospital_DB_Extract.xlsx
+10-12-2019,Adult,65+,Inpatient,Otolaryngology (ENT),H02,15-18 Months,37,Hospital_DB_Extract.xlsx
+05-05-2018,Adult,16-64,Outpatient,Orthopaedics,H01,12-15 Months,106,Hospital_DB_Extract.xlsx
+10-07-2019,Adult,16-64,Outpatient,Orthopaedics,H01,18+ Months,70,Hospital_DB_Extract.xlsx
+21-07-2020,Child,0-15,Day Case,Paed Orthopaedic,H03,12-15 Months,5,Hospital_DB_Extract.xlsx
+11-02-2020,Adult,65+,Day Case,Otolaryngology (ENT),H02,15-18 Months,128,Hospital_DB_Extract.xlsx
+18-03-2020,Child,0-15,Outpatient,Paediatric Urology,H05,9-12 Months,61,Hospital_DB_Extract.xlsx
+29-06-2018,Adult,16-64,Day Case,General Surgery,H06,18+ Months,94,Hospital_DB_Extract.xlsx
+02-10-2018,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,18+ Months,81,Hospital_DB_Extract.xlsx
+15-05-2020,Adult,65+,Outpatient,Otolaryngology (ENT),H02,15-18 Months,59,Hospital_DB_Extract.xlsx
+24-04-2018,Adult,65+,Inpatient,Otolaryngology (ENT),H02,0-3 Months,103,Hospital_DB_Extract.xlsx
+24-02-2018,Adult,16-64,Outpatient,General Surgery,H06,0-3 Months,113,Hospital_DB_Extract.xlsx
+17-04-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,0-3 Months,85,Hospital_DB_Extract.xlsx
+15-03-2019,Adult,16-64,Day Case,Orthopaedics,H01,9-12 Months,140,Hospital_DB_Extract.xlsx
+09-03-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,0-3 Months,135,Hospital_DB_Extract.xlsx
+28-10-2018,Adult,16-64,Outpatient,Ophthalmology,H08,15-18 Months,104,Hospital_DB_Extract.xlsx
+23-08-2018,Adult,16-64,Outpatient,Cardiology,H07,12-15 Months,25,Hospital_DB_Extract.xlsx
+30-05-2019,Adult,16-64,Outpatient,General Surgery,H06,18+ Months,29,Hospital_DB_Extract.xlsx
+19-02-2020,Adult,16-64,Day Case,Otolaryngology (ENT),H02,15-18 Months,148,Hospital_DB_Extract.xlsx
+06-05-2020,Adult,16-64,Outpatient,General Surgery,H06,18+ Months,92,Hospital_DB_Extract.xlsx
+09-01-2019,Adult,16-64,Outpatient,General Surgery,H06,18+ Months,28,Hospital_DB_Extract.xlsx
+26-06-2020,Adult,65+,Outpatient,Orthopaedics,H01,9-12 Months,93,Hospital_DB_Extract.xlsx
+26-11-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,145,Hospital_DB_Extract.xlsx
+22-08-2019,Child,0-15,Outpatient,Ophthalmology,H08,9-12 Months,55,Hospital_DB_Extract.xlsx
+06-06-2018,Child,0-15,Outpatient,Paediatric Urology,H05,3-6 Months,82,Hospital_DB_Extract.xlsx
+28-06-2018,Adult,16-64,Outpatient,Cardiology,H07,15-18 Months,123,Hospital_DB_Extract.xlsx
+19-05-2018,Adult,16-64,Day Case,Orthopaedics,H01,18+ Months,71,Hospital_DB_Extract.xlsx
+20-06-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,15-18 Months,96,Hospital_DB_Extract.xlsx
+21-11-2020,Child,0-15,Day Case,General Surgery,H06,18+ Months,122,Hospital_DB_Extract.xlsx
+18-06-2020,Adult,16-64,Inpatient,Ophthalmology,H08,0-3 Months,46,Hospital_DB_Extract.xlsx
+19-09-2018,Adult,65+,Outpatient,Otolaryngology (ENT),H02,6-9 Months,41,Hospital_DB_Extract.xlsx
+09-05-2019,Child,0-15,Inpatient,Paediatric Dermatology,H04,15-18 Months,86,Hospital_DB_Extract.xlsx
+18-02-2018,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,9-12 Months,69,Hospital_DB_Extract.xlsx
+14-03-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,6-9 Months,118,Hospital_DB_Extract.xlsx
+04-01-2019,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,18+ Months,63,Hospital_DB_Extract.xlsx
+27-05-2020,Adult,16-64,Outpatient,Ophthalmology,H08,3-6 Months,4,Hospital_DB_Extract.xlsx
+28-05-2018,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,108,Hospital_DB_Extract.xlsx
+27-02-2020,Child,0-15,Outpatient,Ophthalmology,H08,9-12 Months,12,Hospital_DB_Extract.xlsx
+24-07-2018,Adult,16-64,Day Case,Orthopaedics,H01,6-9 Months,144,Hospital_DB_Extract.xlsx
+14-12-2020,Child,0-15,Inpatient,Cardiology,H07,3-6 Months,29,Hospital_DB_Extract.xlsx
+05-06-2018,Adult,16-64,Inpatient,Cardiology,H07,15-18 Months,51,Hospital_DB_Extract.xlsx
+20-08-2019,Adult,16-64,Outpatient,Orthopaedics,H01,3-6 Months,122,Hospital_DB_Extract.xlsx
+11-01-2019,Adult,16-64,Outpatient,Orthopaedics,H01,15-18 Months,8,Hospital_DB_Extract.xlsx
+29-12-2019,Adult,16-64,Day Case,Otolaryngology (ENT),H02,15-18 Months,83,Hospital_DB_Extract.xlsx
+21-04-2019,Child,0-15,Outpatient,Paediatric Urology,H05,12-15 Months,31,Hospital_DB_Extract.xlsx
+16-08-2019,Adult,16-64,Day Case,Orthopaedics,H01,18+ Months,136,Hospital_DB_Extract.xlsx
+11-01-2019,Child,0-15,Outpatient,General Surgery,H06,9-12 Months,122,Hospital_DB_Extract.xlsx
+11-05-2018,Adult,16-64,Day Case,Ophthalmology,H08,18+ Months,43,Hospital_DB_Extract.xlsx
+05-11-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,86,Hospital_DB_Extract.xlsx
+29-01-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,141,Hospital_DB_Extract.xlsx
+28-11-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,8,Hospital_DB_Extract.xlsx
+04-10-2019,Adult,16-64,Outpatient,Cardiology,H07,18+ Months,96,Hospital_DB_Extract.xlsx
+15-03-2020,Adult,16-64,Outpatient,Orthopaedics,H01,9-12 Months,120,Hospital_DB_Extract.xlsx
+18-09-2018,Adult,65+,Outpatient,Ophthalmology,H08,18+ Months,34,Hospital_DB_Extract.xlsx
+10-06-2019,Adult,16-64,Day Case,Otolaryngology (ENT),H02,18+ Months,144,Hospital_DB_Extract.xlsx
+09-01-2018,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,43,Hospital_DB_Extract.xlsx
+03-09-2020,Child,0-15,Outpatient,General Surgery,H06,6-9 Months,37,Hospital_DB_Extract.xlsx
+26-10-2020,Child,0-15,Inpatient,Paed Orthopaedic,H03,15-18 Months,74,Hospital_DB_Extract.xlsx
+15-12-2020,Child,0-15,Outpatient,Paediatric Urology,H05,3-6 Months,25,Hospital_DB_Extract.xlsx
+17-04-2020,Adult,16-64,Day Case,Ophthalmology,H08,3-6 Months,29,Hospital_DB_Extract.xlsx
+27-11-2019,Adult,16-64,Inpatient,Cardiology,H07,9-12 Months,97,Hospital_DB_Extract.xlsx
+27-05-2018,Child,0-15,Outpatient,Paediatric Urology,H05,3-6 Months,75,Hospital_DB_Extract.xlsx
+12-06-2018,Adult,16-64,Outpatient,General Surgery,H06,18+ Months,106,Hospital_DB_Extract.xlsx
+18-12-2020,Child,0-15,Day Case,Paediatric Dermatology,H04,6-9 Months,99,Hospital_DB_Extract.xlsx
+03-04-2019,Adult,16-64,Outpatient,Ophthalmology,H08,9-12 Months,109,Hospital_DB_Extract.xlsx
+28-01-2020,Child,0-15,Inpatient,Paediatric Urology,H05,0-3 Months,64,Hospital_DB_Extract.xlsx
+21-05-2018,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,18+ Months,103,Hospital_DB_Extract.xlsx
+28-01-2018,Adult,65+,Inpatient,Ophthalmology,H08,15-18 Months,27,Hospital_DB_Extract.xlsx
+08-09-2018,Adult,16-64,Inpatient,Orthopaedics,H01,3-6 Months,76,Hospital_DB_Extract.xlsx
+26-05-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,9-12 Months,85,Hospital_DB_Extract.xlsx
+22-09-2020,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,53,Hospital_DB_Extract.xlsx
+15-11-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,3-6 Months,83,Hospital_DB_Extract.xlsx
+21-03-2020,Adult,16-64,Outpatient,General Surgery,H06,12-15 Months,128,Hospital_DB_Extract.xlsx
+13-08-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,0-3 Months,88,Hospital_DB_Extract.xlsx
+14-05-2019,Adult,65+,Outpatient,Otolaryngology (ENT),H02,18+ Months,90,Hospital_DB_Extract.xlsx
+15-05-2019,Adult,16-64,Outpatient,Ophthalmology,H08,18+ Months,147,Hospital_DB_Extract.xlsx
+02-03-2018,Child,0-15,Outpatient,Paediatric Urology,H05,9-12 Months,14,Hospital_DB_Extract.xlsx
+18-11-2020,Adult,16-64,Outpatient,Orthopaedics,H01,6-9 Months,79,Hospital_DB_Extract.xlsx
+08-07-2018,Child,0-15,Outpatient,Ophthalmology,H08,3-6 Months,119,Hospital_DB_Extract.xlsx
+28-02-2018,Child,0-15,Outpatient,Ophthalmology,H08,18+ Months,145,Hospital_DB_Extract.xlsx
+01-12-2019,Adult,16-64,Day Case,Orthopaedics,H01,15-18 Months,49,Hospital_DB_Extract.xlsx
+29-07-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,6-9 Months,94,Hospital_DB_Extract.xlsx
+22-02-2019,Child,0-15,Outpatient,Otolaryngology (ENT),H02,18+ Months,72,Hospital_DB_Extract.xlsx
+12-07-2019,Adult,65+,Outpatient,Ophthalmology,H08,12-15 Months,99,Hospital_DB_Extract.xlsx
+23-05-2018,Adult,16-64,Inpatient,General Surgery,H06,18+ Months,148,Hospital_DB_Extract.xlsx
+16-08-2019,Adult,16-64,Day Case,Cardiology,H07,18+ Months,40,Hospital_DB_Extract.xlsx
+05-11-2020,Child,0-15,Outpatient,Paediatric Urology,H05,9-12 Months,136,Hospital_DB_Extract.xlsx
+28-09-2018,Child,0-15,Outpatient,General Surgery,H06,12-15 Months,67,Hospital_DB_Extract.xlsx
+04-02-2018,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,18+ Months,141,Hospital_DB_Extract.xlsx
+19-02-2020,Child,0-15,Day Case,Paediatric Dermatology,H04,15-18 Months,37,Hospital_DB_Extract.xlsx
+13-03-2018,Child,0-15,Outpatient,Cardiology,H07,3-6 Months,94,Hospital_DB_Extract.xlsx
+03-01-2019,Adult,65+,Day Case,General Surgery,H06,12-15 Months,144,Hospital_DB_Extract.xlsx
+01-02-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,18+ Months,128,Hospital_DB_Extract.xlsx
+05-08-2020,Adult,16-64,Day Case,Orthopaedics,H01,9-12 Months,24,Hospital_DB_Extract.xlsx
+10-01-2018,Child,0-15,Outpatient,Paediatric Urology,H05,3-6 Months,109,Hospital_DB_Extract.xlsx
+18-05-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,9-12 Months,61,Hospital_DB_Extract.xlsx
+12-08-2018,Adult,16-64,Outpatient,Ophthalmology,H08,0-3 Months,28,Hospital_DB_Extract.xlsx
+06-08-2020,Adult,65+,Outpatient,Ophthalmology,H08,3-6 Months,3,Hospital_DB_Extract.xlsx
+03-03-2019,Adult,16-64,Outpatient,Ophthalmology,H08,3-6 Months,120,Hospital_DB_Extract.xlsx
+30-10-2020,Adult,65+,Outpatient,Ophthalmology,H08,18+ Months,137,Hospital_DB_Extract.xlsx
+26-06-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,15-18 Months,137,Hospital_DB_Extract.xlsx
+25-12-2019,Child,0-15,Outpatient,Paediatric Urology,H05,3-6 Months,57,Hospital_DB_Extract.xlsx
+25-04-2020,Child,0-15,Outpatient,Paediatric Urology,H05,0-3 Months,99,Hospital_DB_Extract.xlsx
+20-02-2020,Adult,16-64,Outpatient,General Surgery,H06,12-15 Months,12,Hospital_DB_Extract.xlsx
+26-02-2018,Adult,16-64,Outpatient,Ophthalmology,H08,18+ Months,48,Hospital_DB_Extract.xlsx
+15-08-2019,Adult,16-64,Day Case,Otolaryngology (ENT),H02,9-12 Months,56,Hospital_DB_Extract.xlsx
+23-05-2019,Adult,16-64,Outpatient,Orthopaedics,H01,9-12 Months,130,Hospital_DB_Extract.xlsx
+02-06-2020,Adult,16-64,Outpatient,General Surgery,H06,3-6 Months,33,Hospital_DB_Extract.xlsx
+13-11-2018,Adult,16-64,Outpatient,Orthopaedics,H01,12-15 Months,28,Hospital_DB_Extract.xlsx
+10-07-2019,Adult,65+,Day Case,Otolaryngology (ENT),H02,18+ Months,60,Hospital_DB_Extract.xlsx
+25-02-2020,Child,0-15,Outpatient,General Surgery,H06,15-18 Months,82,Hospital_DB_Extract.xlsx
+09-08-2019,Adult,16-64,Inpatient,Orthopaedics,H01,18+ Months,98,Hospital_DB_Extract.xlsx
+06-07-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,6-9 Months,69,Hospital_DB_Extract.xlsx
+06-06-2018,Adult,16-64,Outpatient,General Surgery,H06,3-6 Months,65,Hospital_DB_Extract.xlsx
+10-04-2020,Child,0-15,Outpatient,Cardiology,H07,3-6 Months,144,Hospital_DB_Extract.xlsx
+02-09-2020,Child,0-15,Outpatient,Orthopaedics,H01,6-9 Months,97,Hospital_DB_Extract.xlsx
+07-01-2019,Child,0-15,Outpatient,General Surgery,H06,18+ Months,93,Hospital_DB_Extract.xlsx
+01-09-2020,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,11,Hospital_DB_Extract.xlsx
+31-07-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,6-9 Months,127,Hospital_DB_Extract.xlsx
+08-11-2020,Child,0-15,Day Case,Paediatric Dermatology,H04,6-9 Months,26,Hospital_DB_Extract.xlsx
+30-12-2018,Child,0-15,Outpatient,Paediatric Urology,H05,6-9 Months,132,Hospital_DB_Extract.xlsx
+14-09-2019,Adult,16-64,Outpatient,Orthopaedics,H01,12-15 Months,16,Hospital_DB_Extract.xlsx
+21-08-2019,Adult,16-64,Outpatient,Cardiology,H07,3-6 Months,21,Hospital_DB_Extract.xlsx
+09-01-2020,Child,0-15,Outpatient,Ophthalmology,H08,9-12 Months,16,Hospital_DB_Extract.xlsx
+31-10-2018,Adult,16-64,Day Case,General Surgery,H06,12-15 Months,40,Hospital_DB_Extract.xlsx
+30-11-2019,Adult,65+,Outpatient,Otolaryngology (ENT),H02,0-3 Months,61,Hospital_DB_Extract.xlsx
+07-09-2019,Adult,16-64,Outpatient,General Surgery,H06,18+ Months,100,Hospital_DB_Extract.xlsx
+20-05-2019,Child,0-15,Outpatient,Paediatric Urology,H05,0-3 Months,24,Hospital_DB_Extract.xlsx
+18-06-2018,Adult,65+,Inpatient,Cardiology,H07,3-6 Months,12,Hospital_DB_Extract.xlsx
+30-09-2020,Adult,16-64,Outpatient,General Surgery,H06,3-6 Months,16,Hospital_DB_Extract.xlsx
+28-10-2019,Child,0-15,Outpatient,Otolaryngology (ENT),H02,15-18 Months,72,Hospital_DB_Extract.xlsx
+29-06-2018,Adult,65+,Outpatient,Otolaryngology (ENT),H02,0-3 Months,125,Hospital_DB_Extract.xlsx
+07-02-2020,Child,0-15,Inpatient,Paed Orthopaedic,H03,9-12 Months,4,Hospital_DB_Extract.xlsx
+05-06-2018,Child,0-15,Day Case,Paediatric Dermatology,H04,15-18 Months,81,Hospital_DB_Extract.xlsx
+22-07-2019,Child,0-15,Day Case,Paediatric Dermatology,H04,3-6 Months,98,Hospital_DB_Extract.xlsx
+15-01-2019,Child,0-15,Outpatient,Cardiology,H07,18+ Months,134,Hospital_DB_Extract.xlsx
+11-06-2019,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,15-18 Months,126,Hospital_DB_Extract.xlsx
+11-07-2020,Adult,16-64,Outpatient,Ophthalmology,H08,0-3 Months,102,Hospital_DB_Extract.xlsx
+15-08-2019,Adult,16-64,Outpatient,Orthopaedics,H01,6-9 Months,24,Hospital_DB_Extract.xlsx
+25-04-2020,Child,0-15,Outpatient,Paediatric Urology,H05,15-18 Months,95,Hospital_DB_Extract.xlsx
+19-06-2018,Adult,16-64,Inpatient,Cardiology,H07,15-18 Months,77,Hospital_DB_Extract.xlsx
+20-02-2019,Child,0-15,Inpatient,Otolaryngology (ENT),H02,3-6 Months,14,Hospital_DB_Extract.xlsx
+28-04-2018,Adult,65+,Outpatient,Ophthalmology,H08,12-15 Months,56,Hospital_DB_Extract.xlsx
+04-03-2020,Adult,65+,Day Case,General Surgery,H06,18+ Months,123,Hospital_DB_Extract.xlsx
+13-06-2019,Adult,16-64,Outpatient,General Surgery,H06,3-6 Months,101,Hospital_DB_Extract.xlsx
+20-10-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,0-3 Months,121,Hospital_DB_Extract.xlsx
+04-12-2020,Child,0-15,Day Case,Paediatric Urology,H05,12-15 Months,12,Hospital_DB_Extract.xlsx
+20-07-2018,Child,0-15,Outpatient,General Surgery,H06,0-3 Months,128,Hospital_DB_Extract.xlsx
+01-03-2020,Adult,16-64,Outpatient,Ophthalmology,H08,0-3 Months,34,Hospital_DB_Extract.xlsx
+13-08-2018,Adult,16-64,Outpatient,Ophthalmology,H08,6-9 Months,63,Hospital_DB_Extract.xlsx
+26-04-2018,Child,0-15,Outpatient,Paediatric Urology,H05,3-6 Months,55,Hospital_DB_Extract.xlsx
+21-07-2020,Adult,16-64,Outpatient,General Surgery,H06,6-9 Months,99,Hospital_DB_Extract.xlsx
+01-07-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,3-6 Months,147,Hospital_DB_Extract.xlsx
+07-05-2018,Child,0-15,Inpatient,Paediatric Dermatology,H04,3-6 Months,128,Hospital_DB_Extract.xlsx
+06-04-2020,Child,0-15,Outpatient,General Surgery,H06,3-6 Months,140,Hospital_DB_Extract.xlsx
+28-04-2020,Child,0-15,Inpatient,Cardiology,H07,15-18 Months,131,Hospital_DB_Extract.xlsx
+03-07-2019,Adult,16-64,Inpatient,Cardiology,H07,18+ Months,12,Hospital_DB_Extract.xlsx
+28-12-2018,Adult,65+,Outpatient,Ophthalmology,H08,3-6 Months,137,Hospital_DB_Extract.xlsx
+26-02-2020,Child,0-15,Day Case,Paed Orthopaedic,H03,18+ Months,75,Hospital_DB_Extract.xlsx
+16-10-2019,Adult,65+,Outpatient,Ophthalmology,H08,6-9 Months,147,Hospital_DB_Extract.xlsx
+26-11-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,0-3 Months,53,Hospital_DB_Extract.xlsx
+23-04-2019,Child,0-15,Day Case,Otolaryngology (ENT),H02,18+ Months,107,Hospital_DB_Extract.xlsx
+24-11-2018,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,6-9 Months,44,Hospital_DB_Extract.xlsx
+17-12-2019,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,13,Hospital_DB_Extract.xlsx
+27-02-2020,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,0-3 Months,90,Hospital_DB_Extract.xlsx
+28-02-2020,Child,0-15,Outpatient,Paediatric Urology,H05,3-6 Months,101,Hospital_DB_Extract.xlsx
+03-09-2018,Child,0-15,Day Case,Paed Orthopaedic,H03,3-6 Months,8,Hospital_DB_Extract.xlsx
+21-12-2018,Adult,65+,Inpatient,Otolaryngology (ENT),H02,12-15 Months,119,Hospital_DB_Extract.xlsx
+11-12-2018,Child,0-15,Outpatient,Paediatric Urology,H05,6-9 Months,30,Hospital_DB_Extract.xlsx
+09-09-2018,Adult,16-64,Outpatient,Ophthalmology,H08,0-3 Months,60,Hospital_DB_Extract.xlsx
+17-08-2018,Adult,65+,Day Case,Cardiology,H07,18+ Months,1,Hospital_DB_Extract.xlsx
+25-08-2020,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,145,Hospital_DB_Extract.xlsx
+12-02-2018,Adult,65+,Outpatient,General Surgery,H06,18+ Months,43,Hospital_DB_Extract.xlsx
+05-04-2019,Adult,65+,Outpatient,Cardiology,H07,18+ Months,88,Hospital_DB_Extract.xlsx
+05-02-2019,Adult,16-64,Outpatient,Cardiology,H07,15-18 Months,106,Hospital_DB_Extract.xlsx
+02-12-2018,Adult,16-64,Inpatient,Otolaryngology (ENT),H02,6-9 Months,64,Hospital_DB_Extract.xlsx
+18-12-2020,Adult,16-64,Outpatient,Cardiology,H07,9-12 Months,102,Hospital_DB_Extract.xlsx
+05-10-2019,Child,0-15,Outpatient,Paediatric Urology,H05,15-18 Months,150,Hospital_DB_Extract.xlsx
+30-10-2018,Adult,16-64,Outpatient,Ophthalmology,H08,18+ Months,96,Hospital_DB_Extract.xlsx
+21-04-2020,Adult,65+,Day Case,Cardiology,H07,15-18 Months,122,Hospital_DB_Extract.xlsx
+04-01-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,0-3 Months,54,Hospital_DB_Extract.xlsx
+10-10-2019,Adult,16-64,Day Case,Cardiology,H07,0-3 Months,51,Hospital_DB_Extract.xlsx
+16-07-2020,Adult,65+,Outpatient,Cardiology,H07,18+ Months,65,Hospital_DB_Extract.xlsx
+20-12-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,0-3 Months,52,Hospital_DB_Extract.xlsx
+04-08-2020,Adult,16-64,Day Case,Otolaryngology (ENT),H02,0-3 Months,125,Hospital_DB_Extract.xlsx
+10-06-2018,Child,0-15,Outpatient,Paediatric Urology,H05,0-3 Months,66,Hospital_DB_Extract.xlsx
+15-04-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,12-15 Months,21,Hospital_DB_Extract.xlsx
+04-04-2018,Adult,16-64,Day Case,Ophthalmology,H08,3-6 Months,102,Hospital_DB_Extract.xlsx
+18-11-2018,Child,0-15,Day Case,Ophthalmology,H08,3-6 Months,14,Hospital_DB_Extract.xlsx
+30-09-2019,Adult,16-64,Outpatient,General Surgery,H06,18+ Months,91,Hospital_DB_Extract.xlsx
+13-06-2019,Adult,16-64,Outpatient,Cardiology,H07,6-9 Months,54,Hospital_DB_Extract.xlsx
+03-05-2019,Child,0-15,Outpatient,General Surgery,H06,15-18 Months,111,Hospital_DB_Extract.xlsx
+26-09-2018,Adult,65+,Outpatient,Otolaryngology (ENT),H02,3-6 Months,65,Hospital_DB_Extract.xlsx
+13-08-2020,Adult,16-64,Outpatient,Cardiology,H07,12-15 Months,133,Hospital_DB_Extract.xlsx
+24-09-2019,Adult,65+,Outpatient,Orthopaedics,H01,12-15 Months,96,Hospital_DB_Extract.xlsx
+15-06-2018,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,15-18 Months,117,Hospital_DB_Extract.xlsx
+21-02-2018,Adult,65+,Outpatient,Cardiology,H07,15-18 Months,23,Hospital_DB_Extract.xlsx
+03-02-2020,Child,0-15,Inpatient,Paed Orthopaedic,H03,18+ Months,132,Hospital_DB_Extract.xlsx
+14-03-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,89,Hospital_DB_Extract.xlsx
+13-02-2018,Adult,65+,Outpatient,Orthopaedics,H01,9-12 Months,119,Hospital_DB_Extract.xlsx
+23-03-2019,Adult,16-64,Outpatient,Cardiology,H07,18+ Months,47,Hospital_DB_Extract.xlsx
+05-01-2018,Child,0-15,Outpatient,Ophthalmology,H08,18+ Months,121,Hospital_DB_Extract.xlsx
+23-02-2020,Adult,65+,Outpatient,General Surgery,H06,3-6 Months,94,Hospital_DB_Extract.xlsx
+03-08-2019,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,106,Hospital_DB_Extract.xlsx
+07-06-2019,Adult,65+,Outpatient,General Surgery,H06,9-12 Months,32,Hospital_DB_Extract.xlsx
+07-11-2019,Adult,16-64,Outpatient,Cardiology,H07,6-9 Months,130,Hospital_DB_Extract.xlsx
+15-12-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,18+ Months,87,Hospital_DB_Extract.xlsx
+20-02-2018,Adult,16-64,Outpatient,General Surgery,H06,12-15 Months,16,Hospital_DB_Extract.xlsx
+03-01-2018,Adult,16-64,Outpatient,Cardiology,H07,0-3 Months,101,Hospital_DB_Extract.xlsx
+21-05-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,6-9 Months,27,Hospital_DB_Extract.xlsx
+19-07-2020,Child,0-15,Outpatient,Orthopaedics,H01,3-6 Months,150,Hospital_DB_Extract.xlsx
+30-07-2019,Adult,16-64,Inpatient,Ophthalmology,H08,18+ Months,81,Hospital_DB_Extract.xlsx
+19-09-2019,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,14,Hospital_DB_Extract.xlsx
+28-06-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,3-6 Months,48,Hospital_DB_Extract.xlsx
+06-07-2020,Child,0-15,Outpatient,Ophthalmology,H08,0-3 Months,81,Hospital_DB_Extract.xlsx
+22-09-2020,Adult,16-64,Day Case,Ophthalmology,H08,18+ Months,43,Hospital_DB_Extract.xlsx
+12-02-2019,Child,0-15,Day Case,Paed Orthopaedic,H03,15-18 Months,134,Hospital_DB_Extract.xlsx
+03-02-2018,Child,0-15,Outpatient,Cardiology,H07,9-12 Months,9,Hospital_DB_Extract.xlsx
+30-10-2018,Adult,16-64,Outpatient,General Surgery,H06,12-15 Months,81,Hospital_DB_Extract.xlsx
+09-09-2019,Child,0-15,Day Case,Paed Orthopaedic,H03,6-9 Months,70,Hospital_DB_Extract.xlsx
+26-11-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,3-6 Months,37,Hospital_DB_Extract.xlsx
+20-05-2020,Adult,65+,Outpatient,Orthopaedics,H01,12-15 Months,18,Hospital_DB_Extract.xlsx
+24-05-2019,Adult,16-64,Outpatient,Cardiology,H07,18+ Months,146,Hospital_DB_Extract.xlsx
+21-12-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,6-9 Months,24,Hospital_DB_Extract.xlsx
+06-02-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,3-6 Months,119,Hospital_DB_Extract.xlsx
+03-09-2020,Adult,65+,Day Case,General Surgery,H06,0-3 Months,75,Hospital_DB_Extract.xlsx
+22-07-2018,Child,0-15,Day Case,Paediatric Urology,H05,12-15 Months,19,Hospital_DB_Extract.xlsx
+01-05-2019,Adult,16-64,Outpatient,Orthopaedics,H01,12-15 Months,78,Hospital_DB_Extract.xlsx
+20-07-2020,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,12-15 Months,103,Hospital_DB_Extract.xlsx
+24-05-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,21,Hospital_DB_Extract.xlsx
+14-11-2020,Adult,16-64,Day Case,Cardiology,H07,18+ Months,66,Hospital_DB_Extract.xlsx
+18-03-2020,Child,0-15,Outpatient,Ophthalmology,H08,18+ Months,102,Hospital_DB_Extract.xlsx
+29-12-2019,Adult,65+,Inpatient,Cardiology,H07,18+ Months,104,Hospital_DB_Extract.xlsx
+22-10-2018,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,0-3 Months,46,Hospital_DB_Extract.xlsx
+21-03-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,6-9 Months,65,Hospital_DB_Extract.xlsx
+23-09-2019,Child,0-15,Day Case,Paed Orthopaedic,H03,18+ Months,61,Hospital_DB_Extract.xlsx
+27-12-2020,Child,0-15,Outpatient,Otolaryngology (ENT),H02,0-3 Months,61,Hospital_DB_Extract.xlsx
+06-03-2018,Adult,16-64,Day Case,Otolaryngology (ENT),H02,9-12 Months,81,Hospital_DB_Extract.xlsx
+08-05-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,15-18 Months,8,Hospital_DB_Extract.xlsx
+25-09-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,3-6 Months,68,Hospital_DB_Extract.xlsx
+21-09-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,15-18 Months,4,Hospital_DB_Extract.xlsx
+10-05-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,18+ Months,17,Hospital_DB_Extract.xlsx
+03-08-2019,Adult,16-64,Inpatient,Cardiology,H07,3-6 Months,138,Hospital_DB_Extract.xlsx
+02-12-2020,Adult,16-64,Outpatient,Ophthalmology,H08,6-9 Months,71,Hospital_DB_Extract.xlsx
+23-03-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,6-9 Months,106,Hospital_DB_Extract.xlsx
+22-10-2018,Child,0-15,Outpatient,Orthopaedics,H01,12-15 Months,11,Hospital_DB_Extract.xlsx
+18-06-2018,Child,0-15,Outpatient,Cardiology,H07,18+ Months,9,Hospital_DB_Extract.xlsx
+11-05-2019,Child,0-15,Inpatient,Paed Orthopaedic,H03,18+ Months,68,Hospital_DB_Extract.xlsx
+22-07-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,6-9 Months,120,Hospital_DB_Extract.xlsx
+10-01-2019,Adult,16-64,Outpatient,Cardiology,H07,18+ Months,25,Hospital_DB_Extract.xlsx
+06-03-2018,Adult,16-64,Outpatient,Orthopaedics,H01,12-15 Months,40,Hospital_DB_Extract.xlsx
+17-09-2020,Adult,65+,Day Case,Ophthalmology,H08,18+ Months,63,Hospital_DB_Extract.xlsx
+09-05-2018,Adult,16-64,Outpatient,Ophthalmology,H08,18+ Months,20,Hospital_DB_Extract.xlsx
+01-09-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,15-18 Months,91,Hospital_DB_Extract.xlsx
+28-02-2020,Adult,16-64,Outpatient,Ophthalmology,H08,18+ Months,93,Hospital_DB_Extract.xlsx
+14-06-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,103,Hospital_DB_Extract.xlsx
+15-03-2019,Adult,16-64,Outpatient,Ophthalmology,H08,15-18 Months,84,Hospital_DB_Extract.xlsx
+08-12-2018,Child,0-15,Day Case,Ophthalmology,H08,12-15 Months,133,Hospital_DB_Extract.xlsx
+22-07-2018,Adult,16-64,Day Case,Cardiology,H07,15-18 Months,48,Hospital_DB_Extract.xlsx
+27-03-2020,Child,0-15,Day Case,General Surgery,H06,6-9 Months,138,Hospital_DB_Extract.xlsx
+03-07-2018,Child,0-15,Outpatient,Paediatric Urology,H05,15-18 Months,82,Hospital_DB_Extract.xlsx
+03-04-2019,Adult,16-64,Outpatient,General Surgery,H06,18+ Months,62,Hospital_DB_Extract.xlsx
+07-04-2019,Child,0-15,Outpatient,Paediatric Urology,H05,12-15 Months,3,Hospital_DB_Extract.xlsx
+28-08-2020,Adult,65+,Outpatient,General Surgery,H06,0-3 Months,145,Hospital_DB_Extract.xlsx
+25-09-2019,Child,0-15,Inpatient,Paediatric Urology,H05,9-12 Months,111,Hospital_DB_Extract.xlsx
+17-03-2019,Adult,65+,Outpatient,Cardiology,H07,18+ Months,47,Hospital_DB_Extract.xlsx
+21-08-2018,Adult,65+,Outpatient,Ophthalmology,H08,18+ Months,69,Hospital_DB_Extract.xlsx
+19-04-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,18+ Months,149,Hospital_DB_Extract.xlsx
+10-07-2018,Child,0-15,Outpatient,Otolaryngology (ENT),H02,9-12 Months,77,Hospital_DB_Extract.xlsx
+16-02-2019,Child,0-15,Day Case,Paediatric Urology,H05,0-3 Months,17,Hospital_DB_Extract.xlsx
+25-08-2018,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,15-18 Months,132,Hospital_DB_Extract.xlsx
+27-09-2019,Adult,16-64,Outpatient,General Surgery,H06,18+ Months,15,Hospital_DB_Extract.xlsx
+18-10-2020,Adult,16-64,Outpatient,General Surgery,H06,12-15 Months,84,Hospital_DB_Extract.xlsx
+29-04-2019,Adult,65+,Outpatient,Cardiology,H07,9-12 Months,10,Hospital_DB_Extract.xlsx
+24-01-2020,Adult,16-64,Outpatient,Ophthalmology,H08,12-15 Months,64,Hospital_DB_Extract.xlsx
+19-07-2018,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,148,Hospital_DB_Extract.xlsx
+02-09-2019,Adult,65+,Day Case,Cardiology,H07,18+ Months,45,Hospital_DB_Extract.xlsx
+06-09-2018,Child,0-15,Day Case,Paediatric Urology,H05,9-12 Months,88,Hospital_DB_Extract.xlsx
+24-12-2019,Adult,16-64,Outpatient,Orthopaedics,H01,15-18 Months,93,Hospital_DB_Extract.xlsx
+12-04-2019,Adult,65+,Inpatient,Cardiology,H07,9-12 Months,128,Hospital_DB_Extract.xlsx
+06-01-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,9-12 Months,56,Hospital_DB_Extract.xlsx
+24-08-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,15-18 Months,116,Hospital_DB_Extract.xlsx
+10-12-2020,Child,0-15,Outpatient,Otolaryngology (ENT),H02,0-3 Months,19,Hospital_DB_Extract.xlsx
+19-02-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,3-6 Months,19,Hospital_DB_Extract.xlsx
+30-08-2018,Adult,16-64,Day Case,General Surgery,H06,3-6 Months,12,Hospital_DB_Extract.xlsx
+04-12-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,9-12 Months,37,Hospital_DB_Extract.xlsx
+01-07-2020,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,47,Hospital_DB_Extract.xlsx
+20-05-2020,Child,0-15,Outpatient,General Surgery,H06,9-12 Months,55,Hospital_DB_Extract.xlsx
+03-06-2018,Adult,16-64,Inpatient,Ophthalmology,H08,9-12 Months,135,Hospital_DB_Extract.xlsx
+22-12-2019,Adult,16-64,Outpatient,Ophthalmology,H08,9-12 Months,110,Hospital_DB_Extract.xlsx
+10-12-2018,Child,0-15,Outpatient,Paediatric Urology,H05,12-15 Months,115,Hospital_DB_Extract.xlsx
+16-06-2019,Adult,16-64,Outpatient,Ophthalmology,H08,18+ Months,109,Hospital_DB_Extract.xlsx
+02-06-2019,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,3-6 Months,35,Hospital_DB_Extract.xlsx
+12-02-2020,Child,0-15,Outpatient,Paediatric Urology,H05,9-12 Months,40,Hospital_DB_Extract.xlsx
+28-11-2020,Child,0-15,Outpatient,Cardiology,H07,9-12 Months,54,Hospital_DB_Extract.xlsx
+13-03-2020,Adult,16-64,Inpatient,Cardiology,H07,9-12 Months,23,Hospital_DB_Extract.xlsx
+09-06-2019,Adult,16-64,Outpatient,Ophthalmology,H08,18+ Months,141,Hospital_DB_Extract.xlsx
+25-07-2020,Child,0-15,Day Case,Paediatric Dermatology,H04,15-18 Months,75,Hospital_DB_Extract.xlsx
+03-05-2020,Child,0-15,Day Case,Cardiology,H07,18+ Months,96,Hospital_DB_Extract.xlsx
+10-03-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,9-12 Months,34,Hospital_DB_Extract.xlsx
+03-05-2020,Adult,16-64,Outpatient,Ophthalmology,H08,3-6 Months,117,Hospital_DB_Extract.xlsx
+06-04-2018,Child,0-15,Day Case,Paediatric Urology,H05,9-12 Months,99,Hospital_DB_Extract.xlsx
+06-12-2020,Child,0-15,Day Case,Paediatric Urology,H05,15-18 Months,68,Hospital_DB_Extract.xlsx
+23-12-2020,Adult,16-64,Outpatient,General Surgery,H06,3-6 Months,149,Hospital_DB_Extract.xlsx
+14-04-2020,Child,0-15,Inpatient,Paediatric Urology,H05,6-9 Months,8,Hospital_DB_Extract.xlsx
+15-01-2019,Adult,16-64,Outpatient,Ophthalmology,H08,18+ Months,6,Hospital_DB_Extract.xlsx
+16-08-2018,Adult,16-64,Outpatient,General Surgery,H06,15-18 Months,66,Hospital_DB_Extract.xlsx
+30-07-2019,Adult,65+,Outpatient,Cardiology,H07,18+ Months,134,Hospital_DB_Extract.xlsx
+20-06-2018,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,137,Hospital_DB_Extract.xlsx
+30-10-2019,Child,0-15,Outpatient,Ophthalmology,H08,18+ Months,61,Hospital_DB_Extract.xlsx
+10-12-2018,Adult,16-64,Outpatient,Orthopaedics,H01,15-18 Months,108,Hospital_DB_Extract.xlsx
+08-04-2020,Adult,16-64,Outpatient,Cardiology,H07,3-6 Months,63,Hospital_DB_Extract.xlsx
+15-02-2018,Adult,16-64,Outpatient,Orthopaedics,H01,3-6 Months,113,Hospital_DB_Extract.xlsx
+29-03-2019,Adult,65+,Day Case,Otolaryngology (ENT),H02,3-6 Months,9,Hospital_DB_Extract.xlsx
+27-05-2018,Adult,16-64,Inpatient,Cardiology,H07,18+ Months,25,Hospital_DB_Extract.xlsx
+17-09-2019,Child,0-15,Inpatient,Paed Orthopaedic,H03,6-9 Months,18,Hospital_DB_Extract.xlsx
+04-10-2019,Child,0-15,Day Case,General Surgery,H06,18+ Months,52,Hospital_DB_Extract.xlsx
+02-01-2018,Adult,16-64,Outpatient,General Surgery,H06,9-12 Months,93,Hospital_DB_Extract.xlsx
+07-02-2018,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,15-18 Months,45,Hospital_DB_Extract.xlsx
+25-11-2018,Child,0-15,Outpatient,Orthopaedics,H01,18+ Months,138,Hospital_DB_Extract.xlsx
+17-10-2019,Child,0-15,Outpatient,Otolaryngology (ENT),H02,3-6 Months,50,Hospital_DB_Extract.xlsx
+14-04-2019,Child,0-15,Outpatient,Otolaryngology (ENT),H02,6-9 Months,22,Hospital_DB_Extract.xlsx
+16-07-2020,Adult,16-64,Outpatient,Orthopaedics,H01,18+ Months,84,Hospital_DB_Extract.xlsx
+25-12-2020,Child,0-15,Inpatient,Paediatric Dermatology,H04,0-3 Months,116,Hospital_DB_Extract.xlsx
+01-07-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,0-3 Months,129,Hospital_DB_Extract.xlsx
+26-04-2018,Child,0-15,Outpatient,Otolaryngology (ENT),H02,18+ Months,46,Hospital_DB_Extract.xlsx
+28-01-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,3-6 Months,90,Hospital_DB_Extract.xlsx
+12-12-2019,Child,0-15,Outpatient,Paediatric Urology,H05,9-12 Months,118,Hospital_DB_Extract.xlsx
+24-06-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,15-18 Months,117,Hospital_DB_Extract.xlsx
+03-09-2019,Adult,16-64,Outpatient,Ophthalmology,H08,3-6 Months,100,Hospital_DB_Extract.xlsx
+07-01-2019,Child,0-15,Day Case,Paediatric Urology,H05,18+ Months,146,Hospital_DB_Extract.xlsx
+04-10-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,12-15 Months,117,Hospital_DB_Extract.xlsx
+30-06-2020,Adult,16-64,Inpatient,Orthopaedics,H01,0-3 Months,46,Hospital_DB_Extract.xlsx
+19-12-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,0-3 Months,102,Hospital_DB_Extract.xlsx
+02-04-2019,Adult,65+,Outpatient,Otolaryngology (ENT),H02,18+ Months,33,Hospital_DB_Extract.xlsx
+27-04-2018,Adult,65+,Outpatient,Otolaryngology (ENT),H02,15-18 Months,45,Hospital_DB_Extract.xlsx
+07-07-2018,Adult,65+,Day Case,Otolaryngology (ENT),H02,3-6 Months,117,Hospital_DB_Extract.xlsx
+08-08-2019,Adult,16-64,Outpatient,Orthopaedics,H01,6-9 Months,36,Hospital_DB_Extract.xlsx
+30-06-2018,Child,0-15,Day Case,Cardiology,H07,3-6 Months,101,Hospital_DB_Extract.xlsx
+09-02-2020,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,136,Hospital_DB_Extract.xlsx
+26-08-2020,Child,0-15,Day Case,Paed Orthopaedic,H03,18+ Months,118,Hospital_DB_Extract.xlsx
+02-12-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,12-15 Months,98,Hospital_DB_Extract.xlsx
+25-04-2020,Adult,65+,Outpatient,Orthopaedics,H01,3-6 Months,57,Hospital_DB_Extract.xlsx
+17-10-2020,Adult,16-64,Day Case,General Surgery,H06,18+ Months,129,Hospital_DB_Extract.xlsx
+10-08-2018,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,137,Hospital_DB_Extract.xlsx
+01-04-2020,Adult,65+,Outpatient,Cardiology,H07,18+ Months,147,Hospital_DB_Extract.xlsx
+07-05-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,0-3 Months,47,Hospital_DB_Extract.xlsx
+02-02-2019,Adult,65+,Outpatient,Orthopaedics,H01,3-6 Months,84,Hospital_DB_Extract.xlsx
+05-08-2018,Adult,65+,Outpatient,Cardiology,H07,12-15 Months,103,Hospital_DB_Extract.xlsx
+23-12-2019,Adult,16-64,Outpatient,Cardiology,H07,18+ Months,23,Hospital_DB_Extract.xlsx
+08-07-2018,Adult,16-64,Outpatient,Cardiology,H07,0-3 Months,100,Hospital_DB_Extract.xlsx
+29-06-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,18+ Months,132,Hospital_DB_Extract.xlsx
+26-11-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,70,Hospital_DB_Extract.xlsx
+21-10-2018,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,18+ Months,131,Hospital_DB_Extract.xlsx
+12-06-2019,Adult,16-64,Inpatient,Otolaryngology (ENT),H02,18+ Months,98,Hospital_DB_Extract.xlsx
+05-06-2019,Child,0-15,Day Case,Paed Orthopaedic,H03,9-12 Months,31,Hospital_DB_Extract.xlsx
+21-12-2020,Adult,16-64,Outpatient,Ophthalmology,H08,18+ Months,136,Hospital_DB_Extract.xlsx
+15-12-2020,Child,0-15,Outpatient,Orthopaedics,H01,0-3 Months,68,Hospital_DB_Extract.xlsx
+28-05-2020,Child,0-15,Inpatient,Paediatric Urology,H05,0-3 Months,67,Hospital_DB_Extract.xlsx
+12-01-2019,Child,0-15,Outpatient,General Surgery,H06,18+ Months,150,Hospital_DB_Extract.xlsx
+21-09-2018,Child,0-15,Day Case,Paediatric Dermatology,H04,15-18 Months,57,Hospital_DB_Extract.xlsx
+05-09-2018,Adult,16-64,Day Case,General Surgery,H06,18+ Months,44,Hospital_DB_Extract.xlsx
+19-06-2020,Child,0-15,Outpatient,General Surgery,H06,12-15 Months,30,Hospital_DB_Extract.xlsx
+25-09-2020,Adult,16-64,Outpatient,Orthopaedics,H01,9-12 Months,88,Hospital_DB_Extract.xlsx
+02-05-2018,Adult,65+,Outpatient,General Surgery,H06,18+ Months,87,Hospital_DB_Extract.xlsx
+08-07-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,3-6 Months,104,Hospital_DB_Extract.xlsx
+22-10-2018,Child,0-15,Outpatient,Orthopaedics,H01,15-18 Months,58,Hospital_DB_Extract.xlsx
+09-03-2019,Child,0-15,Outpatient,Otolaryngology (ENT),H02,9-12 Months,36,Hospital_DB_Extract.xlsx
+11-02-2020,Adult,16-64,Day Case,Cardiology,H07,18+ Months,1,Hospital_DB_Extract.xlsx
+31-03-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,9-12 Months,137,Hospital_DB_Extract.xlsx
+13-07-2019,Child,0-15,Outpatient,Paediatric Urology,H05,12-15 Months,114,Hospital_DB_Extract.xlsx
+13-10-2018,Child,0-15,Inpatient,Paediatric Urology,H05,18+ Months,38,Hospital_DB_Extract.xlsx
+18-09-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,15-18 Months,39,Hospital_DB_Extract.xlsx
+16-02-2018,Adult,65+,Outpatient,Orthopaedics,H01,12-15 Months,67,Hospital_DB_Extract.xlsx
+03-01-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,0-3 Months,49,Hospital_DB_Extract.xlsx
+14-01-2018,Adult,16-64,Outpatient,Ophthalmology,H08,15-18 Months,125,Hospital_DB_Extract.xlsx
+29-10-2018,Adult,16-64,Outpatient,Cardiology,H07,18+ Months,42,Hospital_DB_Extract.xlsx
+16-01-2019,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,56,Hospital_DB_Extract.xlsx
+03-08-2019,Child,0-15,Day Case,Paediatric Urology,H05,18+ Months,41,Hospital_DB_Extract.xlsx
+11-02-2018,Child,0-15,Outpatient,Otolaryngology (ENT),H02,3-6 Months,150,Hospital_DB_Extract.xlsx
+03-03-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,48,Hospital_DB_Extract.xlsx
+02-09-2020,Child,0-15,Inpatient,Paediatric Dermatology,H04,18+ Months,127,Hospital_DB_Extract.xlsx
+14-05-2019,Child,0-15,Inpatient,Paediatric Dermatology,H04,18+ Months,44,Hospital_DB_Extract.xlsx
+16-01-2020,Adult,16-64,Outpatient,Orthopaedics,H01,12-15 Months,92,Hospital_DB_Extract.xlsx
+11-03-2018,Child,0-15,Outpatient,Paediatric Urology,H05,3-6 Months,40,Hospital_DB_Extract.xlsx
+26-04-2019,Adult,16-64,Outpatient,Ophthalmology,H08,9-12 Months,119,Hospital_DB_Extract.xlsx
+25-08-2019,Adult,16-64,Outpatient,Cardiology,H07,3-6 Months,65,Hospital_DB_Extract.xlsx
+24-01-2020,Adult,16-64,Day Case,Otolaryngology (ENT),H02,6-9 Months,89,Hospital_DB_Extract.xlsx
+09-06-2018,Child,0-15,Outpatient,Orthopaedics,H01,18+ Months,110,Hospital_DB_Extract.xlsx
+09-06-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,3-6 Months,90,Hospital_DB_Extract.xlsx
+15-10-2020,Adult,16-64,Day Case,Ophthalmology,H08,3-6 Months,6,Hospital_DB_Extract.xlsx
+23-02-2019,Child,0-15,Day Case,Paediatric Urology,H05,18+ Months,46,Hospital_DB_Extract.xlsx
+19-12-2018,Child,0-15,Day Case,Paediatric Dermatology,H04,18+ Months,102,Hospital_DB_Extract.xlsx
+05-04-2019,Child,0-15,Outpatient,Paediatric Urology,H05,15-18 Months,110,Hospital_DB_Extract.xlsx
+13-08-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,18+ Months,85,Hospital_DB_Extract.xlsx
+20-11-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,64,Hospital_DB_Extract.xlsx
+17-04-2020,Adult,16-64,Outpatient,General Surgery,H06,9-12 Months,56,Hospital_DB_Extract.xlsx
+05-04-2020,Adult,16-64,Outpatient,Orthopaedics,H01,18+ Months,97,Hospital_DB_Extract.xlsx
+14-06-2018,Adult,65+,Inpatient,Ophthalmology,H08,9-12 Months,45,Hospital_DB_Extract.xlsx
+29-11-2019,Child,0-15,Outpatient,Paediatric Urology,H05,9-12 Months,67,Hospital_DB_Extract.xlsx
+31-08-2018,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,15-18 Months,28,Hospital_DB_Extract.xlsx
+19-12-2020,Adult,65+,Day Case,Orthopaedics,H01,18+ Months,33,Hospital_DB_Extract.xlsx
+27-09-2020,Child,0-15,Outpatient,Paediatric Urology,H05,3-6 Months,64,Hospital_DB_Extract.xlsx
+10-11-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,15-18 Months,58,Hospital_DB_Extract.xlsx
+12-12-2018,Adult,16-64,Outpatient,Orthopaedics,H01,0-3 Months,129,Hospital_DB_Extract.xlsx
+25-07-2020,Child,0-15,Outpatient,Orthopaedics,H01,18+ Months,43,Hospital_DB_Extract.xlsx
+25-12-2018,Adult,16-64,Outpatient,General Surgery,H06,18+ Months,67,Hospital_DB_Extract.xlsx
+26-11-2018,Adult,16-64,Outpatient,Ophthalmology,H08,12-15 Months,103,Hospital_DB_Extract.xlsx
+27-08-2018,Child,0-15,Outpatient,General Surgery,H06,18+ Months,134,Hospital_DB_Extract.xlsx
+21-05-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,15-18 Months,21,Hospital_DB_Extract.xlsx
+25-08-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,124,Hospital_DB_Extract.xlsx
+18-08-2018,Adult,16-64,Outpatient,Orthopaedics,H01,15-18 Months,47,Hospital_DB_Extract.xlsx
+10-07-2018,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,18+ Months,31,Hospital_DB_Extract.xlsx
+27-04-2019,Adult,16-64,Inpatient,General Surgery,H06,3-6 Months,114,Hospital_DB_Extract.xlsx
+10-07-2020,Child,0-15,Day Case,Orthopaedics,H01,18+ Months,28,Hospital_DB_Extract.xlsx
+14-01-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,12-15 Months,133,Hospital_DB_Extract.xlsx
+22-01-2018,Child,0-15,Outpatient,Cardiology,H07,12-15 Months,5,Hospital_DB_Extract.xlsx
+20-10-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,5,Hospital_DB_Extract.xlsx
+16-07-2019,Adult,16-64,Outpatient,Orthopaedics,H01,18+ Months,65,Hospital_DB_Extract.xlsx
+19-04-2019,Adult,65+,Inpatient,General Surgery,H06,9-12 Months,128,Hospital_DB_Extract.xlsx
+06-01-2020,Adult,16-64,Day Case,Cardiology,H07,15-18 Months,79,Hospital_DB_Extract.xlsx
+08-05-2019,Adult,16-64,Inpatient,Otolaryngology (ENT),H02,18+ Months,5,Hospital_DB_Extract.xlsx
+11-03-2020,Child,0-15,Day Case,Paediatric Dermatology,H04,0-3 Months,61,Hospital_DB_Extract.xlsx
+19-11-2020,Adult,16-64,Day Case,Orthopaedics,H01,0-3 Months,84,Hospital_DB_Extract.xlsx
+03-08-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,3-6 Months,96,Hospital_DB_Extract.xlsx
+18-07-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,3-6 Months,5,Hospital_DB_Extract.xlsx
+03-10-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,15-18 Months,65,Hospital_DB_Extract.xlsx
+27-09-2020,Adult,16-64,Inpatient,General Surgery,H06,15-18 Months,49,Hospital_DB_Extract.xlsx
+12-04-2019,Adult,16-64,Day Case,Cardiology,H07,18+ Months,98,Hospital_DB_Extract.xlsx
+08-04-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,3-6 Months,99,Hospital_DB_Extract.xlsx
+14-01-2018,Adult,16-64,Day Case,Ophthalmology,H08,3-6 Months,16,Hospital_DB_Extract.xlsx
+10-08-2020,Child,0-15,Inpatient,Paed Orthopaedic,H03,9-12 Months,82,Hospital_DB_Extract.xlsx
+25-08-2020,Child,0-15,Inpatient,Paed Orthopaedic,H03,6-9 Months,98,Hospital_DB_Extract.xlsx
+14-08-2018,Child,0-15,Day Case,Paediatric Dermatology,H04,3-6 Months,107,Hospital_DB_Extract.xlsx
+19-10-2019,Adult,16-64,Inpatient,Ophthalmology,H08,0-3 Months,90,Hospital_DB_Extract.xlsx
+30-10-2019,Adult,65+,Outpatient,Orthopaedics,H01,18+ Months,17,Hospital_DB_Extract.xlsx
+16-07-2018,Child,0-15,Inpatient,Orthopaedics,H01,15-18 Months,26,Hospital_DB_Extract.xlsx
+20-07-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,0-3 Months,37,Hospital_DB_Extract.xlsx
+12-08-2020,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,130,Hospital_DB_Extract.xlsx
+29-03-2019,Child,0-15,Inpatient,Paediatric Urology,H05,3-6 Months,77,Hospital_DB_Extract.xlsx
+13-06-2019,Adult,16-64,Day Case,Ophthalmology,H08,0-3 Months,31,Hospital_DB_Extract.xlsx
+10-04-2019,Adult,16-64,Outpatient,Ophthalmology,H08,3-6 Months,107,Hospital_DB_Extract.xlsx
+14-07-2020,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,3-6 Months,54,Hospital_DB_Extract.xlsx
+15-04-2018,Adult,16-64,Day Case,General Surgery,H06,18+ Months,147,Hospital_DB_Extract.xlsx
+11-03-2019,Adult,16-64,Outpatient,Cardiology,H07,15-18 Months,144,Hospital_DB_Extract.xlsx
+21-10-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,3-6 Months,53,Hospital_DB_Extract.xlsx
+11-04-2019,Child,0-15,Outpatient,Paediatric Urology,H05,15-18 Months,65,Hospital_DB_Extract.xlsx
+18-06-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,0-3 Months,18,Hospital_DB_Extract.xlsx
+17-04-2018,Child,0-15,Outpatient,Otolaryngology (ENT),H02,0-3 Months,43,Hospital_DB_Extract.xlsx
+26-03-2020,Adult,16-64,Day Case,Otolaryngology (ENT),H02,12-15 Months,52,Hospital_DB_Extract.xlsx
+12-09-2020,Adult,16-64,Outpatient,Ophthalmology,H08,0-3 Months,11,Hospital_DB_Extract.xlsx
+29-10-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,3-6 Months,100,Hospital_DB_Extract.xlsx
+20-11-2018,Adult,16-64,Outpatient,Ophthalmology,H08,18+ Months,120,Hospital_DB_Extract.xlsx
+23-11-2020,Adult,16-64,Day Case,Orthopaedics,H01,18+ Months,127,Hospital_DB_Extract.xlsx
+17-02-2020,Adult,16-64,Outpatient,General Surgery,H06,6-9 Months,101,Hospital_DB_Extract.xlsx
+15-01-2020,Adult,16-64,Outpatient,General Surgery,H06,18+ Months,66,Hospital_DB_Extract.xlsx
+26-11-2019,Child,0-15,Outpatient,Otolaryngology (ENT),H02,18+ Months,133,Hospital_DB_Extract.xlsx
+26-01-2019,Child,0-15,Day Case,Paediatric Dermatology,H04,15-18 Months,129,Hospital_DB_Extract.xlsx
+28-10-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,6-9 Months,64,Hospital_DB_Extract.xlsx
+27-01-2018,Child,0-15,Inpatient,Paediatric Dermatology,H04,0-3 Months,68,Hospital_DB_Extract.xlsx
+24-05-2020,Adult,16-64,Inpatient,Otolaryngology (ENT),H02,0-3 Months,23,Hospital_DB_Extract.xlsx
+22-08-2020,Child,0-15,Day Case,Paediatric Dermatology,H04,9-12 Months,115,Hospital_DB_Extract.xlsx
+28-02-2018,Child,0-15,Outpatient,Orthopaedics,H01,0-3 Months,47,Hospital_DB_Extract.xlsx
+18-12-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,0-3 Months,91,Hospital_DB_Extract.xlsx
+22-06-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,18+ Months,143,Hospital_DB_Extract.xlsx
+31-07-2018,Adult,16-64,Inpatient,General Surgery,H06,18+ Months,28,Hospital_DB_Extract.xlsx
+20-07-2018,Adult,65+,Outpatient,Cardiology,H07,3-6 Months,76,Hospital_DB_Extract.xlsx
+29-07-2019,Adult,16-64,Outpatient,Ophthalmology,H08,3-6 Months,71,Hospital_DB_Extract.xlsx
+19-05-2018,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,15-18 Months,26,Hospital_DB_Extract.xlsx
+18-08-2020,Adult,16-64,Day Case,General Surgery,H06,0-3 Months,51,Hospital_DB_Extract.xlsx
+26-05-2018,Adult,16-64,Inpatient,Cardiology,H07,18+ Months,70,Hospital_DB_Extract.xlsx
+22-06-2020,Child,0-15,Outpatient,Paediatric Urology,H05,3-6 Months,114,Hospital_DB_Extract.xlsx
+27-02-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,150,Hospital_DB_Extract.xlsx
+21-01-2018,Adult,16-64,Outpatient,Cardiology,H07,6-9 Months,45,Hospital_DB_Extract.xlsx
+20-07-2020,Adult,16-64,Outpatient,Ophthalmology,H08,18+ Months,85,Hospital_DB_Extract.xlsx
+09-07-2019,Adult,16-64,Inpatient,General Surgery,H06,9-12 Months,95,Hospital_DB_Extract.xlsx
+13-08-2018,Adult,16-64,Outpatient,Ophthalmology,H08,18+ Months,1,Hospital_DB_Extract.xlsx
+22-03-2018,Adult,16-64,Outpatient,Ophthalmology,H08,3-6 Months,119,Hospital_DB_Extract.xlsx
+04-03-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,16,Hospital_DB_Extract.xlsx
+29-10-2019,Child,0-15,Day Case,Paediatric Dermatology,H04,18+ Months,137,Hospital_DB_Extract.xlsx
+16-05-2018,Adult,65+,Outpatient,Orthopaedics,H01,0-3 Months,27,Hospital_DB_Extract.xlsx
+01-06-2020,Child,0-15,Outpatient,Otolaryngology (ENT),H02,3-6 Months,137,Hospital_DB_Extract.xlsx
+02-06-2020,Child,0-15,Outpatient,Paediatric Urology,H05,9-12 Months,101,Hospital_DB_Extract.xlsx
+26-08-2018,Child,0-15,Outpatient,Cardiology,H07,0-3 Months,129,Hospital_DB_Extract.xlsx
+11-03-2018,Adult,16-64,Outpatient,General Surgery,H06,6-9 Months,116,Hospital_DB_Extract.xlsx
+20-06-2020,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,0-3 Months,36,Hospital_DB_Extract.xlsx
+22-10-2018,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,3-6 Months,98,Hospital_DB_Extract.xlsx
+14-07-2019,Child,0-15,Outpatient,Ophthalmology,H08,18+ Months,22,Hospital_DB_Extract.xlsx
+08-06-2018,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,12-15 Months,48,Hospital_DB_Extract.xlsx
+19-01-2020,Child,0-15,Day Case,Paed Orthopaedic,H03,18+ Months,68,Hospital_DB_Extract.xlsx
+22-06-2019,Adult,65+,Outpatient,Ophthalmology,H08,18+ Months,72,Hospital_DB_Extract.xlsx
+30-04-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,0-3 Months,40,Hospital_DB_Extract.xlsx
+26-10-2019,Adult,16-64,Outpatient,Cardiology,H07,6-9 Months,57,Hospital_DB_Extract.xlsx
+24-01-2018,Adult,65+,Outpatient,Ophthalmology,H08,18+ Months,45,Hospital_DB_Extract.xlsx
+24-12-2019,Child,0-15,Outpatient,Ophthalmology,H08,3-6 Months,42,Hospital_DB_Extract.xlsx
+01-12-2020,Adult,16-64,Outpatient,Cardiology,H07,0-3 Months,87,Hospital_DB_Extract.xlsx
+02-05-2019,Child,0-15,Inpatient,General Surgery,H06,3-6 Months,126,Hospital_DB_Extract.xlsx
+10-07-2019,Adult,16-64,Outpatient,General Surgery,H06,12-15 Months,70,Hospital_DB_Extract.xlsx
+22-07-2018,Adult,65+,Outpatient,Cardiology,H07,15-18 Months,108,Hospital_DB_Extract.xlsx
+30-07-2020,Child,0-15,Outpatient,Cardiology,H07,12-15 Months,108,Hospital_DB_Extract.xlsx
+20-03-2020,Child,0-15,Inpatient,Paediatric Urology,H05,0-3 Months,3,Hospital_DB_Extract.xlsx
+17-07-2018,Child,0-15,Day Case,Paed Orthopaedic,H03,18+ Months,41,Hospital_DB_Extract.xlsx
+11-10-2018,Child,0-15,Inpatient,Paediatric Dermatology,H04,6-9 Months,106,Hospital_DB_Extract.xlsx
+16-12-2020,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,3-6 Months,119,Hospital_DB_Extract.xlsx
+30-06-2020,Child,0-15,Outpatient,Paediatric Dermatology,H04,9-12 Months,113,Hospital_DB_Extract.xlsx
+01-10-2019,Adult,16-64,Outpatient,General Surgery,H06,18+ Months,146,Hospital_DB_Extract.xlsx
+10-11-2018,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,12-15 Months,143,Hospital_DB_Extract.xlsx
+07-08-2019,Adult,65+,Day Case,Cardiology,H07,0-3 Months,94,Hospital_DB_Extract.xlsx
+08-11-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,84,Hospital_DB_Extract.xlsx
+01-07-2019,Child,0-15,Outpatient,Orthopaedics,H01,18+ Months,2,Hospital_DB_Extract.xlsx
+31-10-2019,Adult,16-64,Outpatient,General Surgery,H06,15-18 Months,143,Hospital_DB_Extract.xlsx
+26-05-2020,Child,0-15,Outpatient,General Surgery,H06,12-15 Months,25,Hospital_DB_Extract.xlsx
+24-02-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,12-15 Months,86,Hospital_DB_Extract.xlsx
+01-04-2019,Adult,65+,Outpatient,General Surgery,H06,12-15 Months,49,Hospital_DB_Extract.xlsx
+05-05-2020,Adult,65+,Outpatient,General Surgery,H06,3-6 Months,82,Hospital_DB_Extract.xlsx
+26-02-2019,Adult,65+,Outpatient,General Surgery,H06,0-3 Months,18,Hospital_DB_Extract.xlsx
+02-11-2018,Adult,65+,Outpatient,Cardiology,H07,18+ Months,116,Hospital_DB_Extract.xlsx
+06-06-2019,Child,0-15,Outpatient,Paediatric Urology,H05,9-12 Months,118,Hospital_DB_Extract.xlsx
+21-07-2020,Child,0-15,Outpatient,General Surgery,H06,0-3 Months,11,Hospital_DB_Extract.xlsx
+30-01-2018,Child,0-15,Outpatient,Paediatric Urology,H05,6-9 Months,3,Hospital_DB_Extract.xlsx
+25-08-2020,Child,0-15,Day Case,General Surgery,H06,15-18 Months,132,Hospital_DB_Extract.xlsx
+20-04-2020,Child,0-15,Day Case,Paediatric Urology,H05,9-12 Months,77,Hospital_DB_Extract.xlsx
+09-08-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,18+ Months,29,Hospital_DB_Extract.xlsx
+26-06-2020,Adult,16-64,Day Case,Otolaryngology (ENT),H02,0-3 Months,107,Hospital_DB_Extract.xlsx
+24-05-2019,Child,0-15,Outpatient,Orthopaedics,H01,9-12 Months,8,Hospital_DB_Extract.xlsx
+10-10-2020,Child,0-15,Outpatient,General Surgery,H06,18+ Months,107,Hospital_DB_Extract.xlsx
+11-10-2018,Child,0-15,Day Case,Paediatric Dermatology,H04,18+ Months,139,Hospital_DB_Extract.xlsx
+13-06-2019,Adult,65+,Outpatient,General Surgery,H06,18+ Months,9,Hospital_DB_Extract.xlsx
+23-11-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,59,Hospital_DB_Extract.xlsx
+27-04-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,88,Hospital_DB_Extract.xlsx
+15-03-2018,Child,0-15,Outpatient,Paediatric Urology,H05,9-12 Months,11,Hospital_DB_Extract.xlsx
+12-12-2020,Adult,16-64,Outpatient,General Surgery,H06,3-6 Months,148,Hospital_DB_Extract.xlsx
+20-04-2019,Adult,16-64,Inpatient,Cardiology,H07,12-15 Months,136,Hospital_DB_Extract.xlsx
+06-10-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,0-3 Months,143,Hospital_DB_Extract.xlsx
+07-04-2018,Child,0-15,Outpatient,Orthopaedics,H01,0-3 Months,40,Hospital_DB_Extract.xlsx
+26-09-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,18+ Months,66,Hospital_DB_Extract.xlsx
+18-06-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,12-15 Months,2,Hospital_DB_Extract.xlsx
+16-01-2020,Adult,16-64,Outpatient,Orthopaedics,H01,3-6 Months,59,Hospital_DB_Extract.xlsx
+30-06-2018,Child,0-15,Day Case,Paed Orthopaedic,H03,15-18 Months,106,Hospital_DB_Extract.xlsx
+27-03-2019,Child,0-15,Inpatient,Paediatric Dermatology,H04,18+ Months,131,Hospital_DB_Extract.xlsx
+21-04-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,12-15 Months,63,Hospital_DB_Extract.xlsx
+14-10-2018,Adult,16-64,Outpatient,General Surgery,H06,3-6 Months,29,Hospital_DB_Extract.xlsx
+07-12-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,15-18 Months,146,Hospital_DB_Extract.xlsx
+12-10-2020,Adult,16-64,Outpatient,Cardiology,H07,18+ Months,95,Hospital_DB_Extract.xlsx
+06-03-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,3-6 Months,107,Hospital_DB_Extract.xlsx
+14-11-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,15-18 Months,55,Hospital_DB_Extract.xlsx
+13-01-2019,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,11,Hospital_DB_Extract.xlsx
+25-04-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,15-18 Months,90,Hospital_DB_Extract.xlsx
+14-12-2020,Child,0-15,Outpatient,Orthopaedics,H01,9-12 Months,58,Hospital_DB_Extract.xlsx
+04-09-2019,Adult,65+,Inpatient,Ophthalmology,H08,0-3 Months,9,Hospital_DB_Extract.xlsx
+02-02-2018,Child,0-15,Outpatient,Ophthalmology,H08,0-3 Months,71,Hospital_DB_Extract.xlsx
+25-04-2019,Adult,16-64,Outpatient,Orthopaedics,H01,9-12 Months,47,Hospital_DB_Extract.xlsx
+20-05-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,0-3 Months,130,Hospital_DB_Extract.xlsx
+08-10-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,6-9 Months,77,Hospital_DB_Extract.xlsx
+24-04-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,12-15 Months,140,Hospital_DB_Extract.xlsx
+17-02-2019,Adult,65+,Day Case,Otolaryngology (ENT),H02,18+ Months,42,Hospital_DB_Extract.xlsx
+10-02-2020,Adult,16-64,Outpatient,Cardiology,H07,3-6 Months,11,Hospital_DB_Extract.xlsx
+08-04-2019,Adult,65+,Day Case,Cardiology,H07,9-12 Months,16,Hospital_DB_Extract.xlsx
+07-04-2019,Adult,16-64,Inpatient,Otolaryngology (ENT),H02,18+ Months,92,Hospital_DB_Extract.xlsx
+13-05-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,146,Hospital_DB_Extract.xlsx
+07-11-2020,Adult,16-64,Outpatient,Orthopaedics,H01,18+ Months,74,Hospital_DB_Extract.xlsx
+12-01-2019,Adult,65+,Outpatient,General Surgery,H06,9-12 Months,53,Hospital_DB_Extract.xlsx
+04-04-2019,Adult,65+,Day Case,General Surgery,H06,12-15 Months,70,Hospital_DB_Extract.xlsx
+26-07-2019,Adult,16-64,Outpatient,Cardiology,H07,15-18 Months,93,Hospital_DB_Extract.xlsx
+17-03-2019,Adult,16-64,Inpatient,Cardiology,H07,6-9 Months,63,Hospital_DB_Extract.xlsx
+10-12-2020,Child,0-15,Day Case,General Surgery,H06,18+ Months,76,Hospital_DB_Extract.xlsx
+13-09-2018,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,120,Hospital_DB_Extract.xlsx
+10-02-2019,Child,0-15,Outpatient,Paediatric Urology,H05,9-12 Months,49,Hospital_DB_Extract.xlsx
+16-10-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,3-6 Months,26,Hospital_DB_Extract.xlsx
+12-09-2018,Adult,16-64,Outpatient,Orthopaedics,H01,18+ Months,121,Hospital_DB_Extract.xlsx
+10-01-2020,Adult,65+,Outpatient,Ophthalmology,H08,9-12 Months,9,Hospital_DB_Extract.xlsx
+30-06-2020,Adult,16-64,Outpatient,General Surgery,H06,3-6 Months,29,Hospital_DB_Extract.xlsx
+19-04-2019,Adult,16-64,Outpatient,Orthopaedics,H01,18+ Months,75,Hospital_DB_Extract.xlsx
+06-09-2019,Adult,16-64,Day Case,General Surgery,H06,3-6 Months,127,Hospital_DB_Extract.xlsx
+12-09-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,127,Hospital_DB_Extract.xlsx
+04-04-2019,Child,0-15,Inpatient,Paediatric Urology,H05,18+ Months,44,Hospital_DB_Extract.xlsx
+23-05-2018,Adult,16-64,Outpatient,Orthopaedics,H01,3-6 Months,4,Hospital_DB_Extract.xlsx
+10-09-2020,Child,0-15,Inpatient,Paed Orthopaedic,H03,9-12 Months,49,Hospital_DB_Extract.xlsx
+22-07-2020,Child,0-15,Day Case,Paediatric Urology,H05,18+ Months,32,Hospital_DB_Extract.xlsx
+09-07-2020,Child,0-15,Outpatient,Ophthalmology,H08,18+ Months,48,Hospital_DB_Extract.xlsx
+21-02-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,6-9 Months,44,Hospital_DB_Extract.xlsx
+02-09-2018,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,118,Hospital_DB_Extract.xlsx
+13-05-2018,Child,0-15,Outpatient,Paediatric Urology,H05,12-15 Months,9,Hospital_DB_Extract.xlsx
+04-05-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,0-3 Months,79,Hospital_DB_Extract.xlsx
+19-06-2018,Adult,16-64,Outpatient,Cardiology,H07,18+ Months,100,Hospital_DB_Extract.xlsx
+02-05-2018,Child,0-15,Inpatient,Paed Orthopaedic,H03,6-9 Months,138,Hospital_DB_Extract.xlsx
+14-01-2019,Child,0-15,Outpatient,Cardiology,H07,9-12 Months,49,Hospital_DB_Extract.xlsx
+16-09-2019,Child,0-15,Day Case,Paediatric Urology,H05,18+ Months,40,Hospital_DB_Extract.xlsx
+10-09-2018,Child,0-15,Inpatient,Paediatric Dermatology,H04,6-9 Months,145,Hospital_DB_Extract.xlsx
+19-05-2020,Adult,16-64,Day Case,Ophthalmology,H08,18+ Months,3,Hospital_DB_Extract.xlsx
+24-05-2020,Child,0-15,Inpatient,Paed Orthopaedic,H03,12-15 Months,115,Hospital_DB_Extract.xlsx
+26-02-2018,Child,0-15,Outpatient,Paediatric Urology,H05,9-12 Months,97,Hospital_DB_Extract.xlsx
+20-05-2018,Child,0-15,Outpatient,Cardiology,H07,18+ Months,132,Hospital_DB_Extract.xlsx
+18-10-2019,Child,0-15,Day Case,Paed Orthopaedic,H03,0-3 Months,134,Hospital_DB_Extract.xlsx
+12-06-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,12-15 Months,72,Hospital_DB_Extract.xlsx
+13-04-2018,Adult,16-64,Outpatient,General Surgery,H06,15-18 Months,126,Hospital_DB_Extract.xlsx
+24-01-2019,Child,0-15,Inpatient,Paediatric Dermatology,H04,15-18 Months,103,Hospital_DB_Extract.xlsx
+04-01-2018,Adult,16-64,Outpatient,Orthopaedics,H01,18+ Months,112,Hospital_DB_Extract.xlsx
+28-02-2019,Child,0-15,Outpatient,Paediatric Urology,H05,12-15 Months,119,Hospital_DB_Extract.xlsx
+01-05-2018,Child,0-15,Day Case,Orthopaedics,H01,0-3 Months,12,Hospital_DB_Extract.xlsx
+23-08-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,18+ Months,86,Hospital_DB_Extract.xlsx
+03-12-2018,Child,0-15,Day Case,Cardiology,H07,6-9 Months,24,Hospital_DB_Extract.xlsx
+12-03-2018,Child,0-15,Outpatient,Ophthalmology,H08,12-15 Months,46,Hospital_DB_Extract.xlsx
+19-11-2020,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,3-6 Months,71,Hospital_DB_Extract.xlsx
+26-04-2019,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,9-12 Months,92,Hospital_DB_Extract.xlsx
+22-01-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,15-18 Months,76,Hospital_DB_Extract.xlsx
+05-04-2020,Child,0-15,Day Case,Paediatric Urology,H05,15-18 Months,26,Hospital_DB_Extract.xlsx
+30-10-2020,Adult,16-64,Outpatient,General Surgery,H06,3-6 Months,34,Hospital_DB_Extract.xlsx
+06-09-2019,Child,0-15,Outpatient,Orthopaedics,H01,18+ Months,89,Hospital_DB_Extract.xlsx
+06-11-2018,Adult,16-64,Outpatient,Cardiology,H07,0-3 Months,81,Hospital_DB_Extract.xlsx
+02-12-2019,Child,0-15,Day Case,Paediatric Urology,H05,18+ Months,56,Hospital_DB_Extract.xlsx
+25-06-2018,Adult,16-64,Outpatient,Ophthalmology,H08,3-6 Months,12,Hospital_DB_Extract.xlsx
+14-03-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,3-6 Months,124,Hospital_DB_Extract.xlsx
+11-04-2020,Child,0-15,Day Case,Cardiology,H07,3-6 Months,56,Hospital_DB_Extract.xlsx
+22-08-2018,Child,0-15,Outpatient,Paediatric Dermatology,H04,6-9 Months,39,Hospital_DB_Extract.xlsx
+28-10-2019,Adult,65+,Outpatient,Otolaryngology (ENT),H02,0-3 Months,141,Hospital_DB_Extract.xlsx
+14-01-2020,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,25,Hospital_DB_Extract.xlsx
+06-10-2020,Adult,65+,Outpatient,Ophthalmology,H08,18+ Months,141,Hospital_DB_Extract.xlsx
+03-09-2020,Adult,65+,Outpatient,Otolaryngology (ENT),H02,15-18 Months,134,Hospital_DB_Extract.xlsx
+07-02-2018,Child,0-15,Outpatient,Paed Orthopaedic,H03,6-9 Months,139,Hospital_DB_Extract.xlsx
+21-02-2018,Child,0-15,Inpatient,Orthopaedics,H01,18+ Months,32,Hospital_DB_Extract.xlsx
+10-08-2020,Adult,16-64,Outpatient,General Surgery,H06,12-15 Months,142,Hospital_DB_Extract.xlsx
+21-10-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,6-9 Months,109,Hospital_DB_Extract.xlsx
+05-06-2020,Adult,16-64,Outpatient,Orthopaedics,H01,12-15 Months,55,Hospital_DB_Extract.xlsx
+20-10-2020,Adult,16-64,Outpatient,General Surgery,H06,3-6 Months,147,Hospital_DB_Extract.xlsx
+17-12-2019,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,1,Hospital_DB_Extract.xlsx
+24-04-2020,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,15-18 Months,119,Hospital_DB_Extract.xlsx
+16-01-2018,Adult,16-64,Outpatient,Ophthalmology,H08,18+ Months,17,Hospital_DB_Extract.xlsx
+08-02-2020,Adult,65+,Outpatient,Otolaryngology (ENT),H02,15-18 Months,23,Hospital_DB_Extract.xlsx
+15-01-2020,Adult,65+,Outpatient,Orthopaedics,H01,18+ Months,64,Hospital_DB_Extract.xlsx
+13-10-2018,Adult,16-64,Outpatient,Ophthalmology,H08,9-12 Months,53,Hospital_DB_Extract.xlsx
+09-11-2019,Child,0-15,Outpatient,Paediatric Urology,H05,18+ Months,91,Hospital_DB_Extract.xlsx
+20-09-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,18+ Months,38,Hospital_DB_Extract.xlsx
+09-03-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,18+ Months,6,Hospital_DB_Extract.xlsx
+18-09-2019,Child,0-15,Outpatient,Paediatric Dermatology,H04,3-6 Months,90,Hospital_DB_Extract.xlsx
+13-04-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,15-18 Months,110,Hospital_DB_Extract.xlsx
+03-01-2020,Adult,65+,Outpatient,Ophthalmology,H08,12-15 Months,61,Hospital_DB_Extract.xlsx
+03-11-2019,Adult,16-64,Outpatient,Otolaryngology (ENT),H02,15-18 Months,121,Hospital_DB_Extract.xlsx
+06-02-2018,Adult,16-64,Outpatient,Cardiology,H07,18+ Months,21,Hospital_DB_Extract.xlsx
+01-02-2018,Adult,16-64,Day Case,General Surgery,H06,0-3 Months,29,Hospital_DB_Extract.xlsx
+18-11-2020,Adult,65+,Outpatient,General Surgery,H06,3-6 Months,134,Hospital_DB_Extract.xlsx
+22-04-2019,Child,0-15,Outpatient,Paed Orthopaedic,H03,3-6 Months,140,Hospital_DB_Extract.xlsx
+15-05-2018,Child,0-15,Outpatient,Orthopaedics,H01,3-6 Months,17,Hospital_DB_Extract.xlsx
