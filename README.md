@@ -10,6 +10,35 @@ It offers insights into patient demographics, treatment outcomes, operational ef
 - **Data Transformation:** Power Query (ETL process)
 - **Visualization:** Power BI Interactive Reports
 
+## 🗂 Data Dictionary (Dataset Schema)
+Based on the Power BI data model, the dataset consists of the following key tables, columns, and measures:
+
+### 1. `All_Data` (Main Fact Table)
+**Key Columns:**
+- `Archive_Date`: Date of the record (includes Year, Quarter, Month, Day hierarchy).
+- `Adult_Child`: Categorizes patients as adults or children.
+- `Age_Profile`: Detailed age brackets of patients (e.g., 0-15, 16-64, 65+).
+- `Case_Type`: Specifies if the patient is Outpatient, Inpatient, or Day Case.
+- `Speciality_Name` & `Specialty_HIPE`: The medical department or clinical specialty code.
+- `Time_Bands`: Waitlist duration categories (e.g., 0-3 Months, 18+ Months).
+- `Total`: The aggregate count of patients.
+- `Source.Name`: The origin file or system for the data row.
+
+**DAX Measures:**
+- `Latest Month Wait List`: Waitlist total for the most recent month in the data.
+- `PY Latest Month Wait List`: Waitlist total for the exact same month in the Previous Year.
+- `Average Wait List` & `Median Wait List`: Calculates the respective statistical waitlist size.
+- `Avg/Med Wait List`: A dynamic measure that switches between average and median based on the slicer selection.
+- `Dynamic Title`: Dynamically updates visual titles based on user interactions.
+- `NoDataLeft` & `NoDataRight`: Helper utility measures for formatting visuals.
+
+### 2. `Mapping_Specialty` (Dimension Table)
+- `Specialty`: Exact medical specialty name.
+- `Specialty Group`: Broader categorization of the specialties (e.g., grouping Paediatrics into a single bucket) for easier high-level analysis.
+
+### 3. `calculation method` (Parameter/Disconnected Table)
+- `Calc method`: A helper table used to power the "Average / Median" toggle buttons on the dashboard.
+
 ## 🎯 Objectives
 1. Analyze patient demographics such as age, gender, and location.
 2. Monitor treatment outcomes and operational performance.
@@ -82,7 +111,7 @@ The dashboard was built following the **Extract, Transform, Load (ETL)** methodo
 
 ## 📜 Author
 - Developed by: Sandesh Shrivastava
-- Date: *August 2025*
+- Date: *March 2026*
 📍 India  
 🎓 Aspiring Data Analyst | Excel, Power BI
 
