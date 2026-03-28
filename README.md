@@ -1,11 +1,11 @@
-# Healthcare Dashboard – Power BI Project
+# Hospital Waitlist Analysis – Power BI Project
 
 ## 📌 Project Overview
-The **Healthcare Dashboard** is an interactive Power BI report designed to provide a comprehensive view of healthcare-related KPIs.  
+The **Hospital Waitlist Analysis** is an interactive Power BI report designed to provide a comprehensive view of healthcare-related KPIs.  
 It offers insights into patient demographics, treatment outcomes, operational efficiency, and resource utilization, enabling data-driven decision-making in the healthcare sector.
 
 ## 📂 File Information
-- **File Name:** healthcare dashboard.pbix
+- **File Name:** Hospital-Waitlist-Analysis.pbix
 - **Tool Used:** Microsoft Power BI
 - **Data Transformation:** Power Query (ETL process)
 - **Visualization:** Power BI Interactive Reports
@@ -53,7 +53,7 @@ Based on the Power BI data model, the dataset consists of the following key tabl
 
 ## 🔄 ETL Process
 The dashboard was built following the **Extract, Transform, Load (ETL)** methodology:
-1. **Extract:** Data imported from healthcare database / CSV files.
+1. **Extract:** Data imported from Hospital Waitlist Analysis database / CSV files.
 2. **Transform:** Data cleaned and processed in Power Query (handling missing values, correcting formats, creating calculated columns).
 3. **Load:** Data model created in Power BI with proper relationships.
 
@@ -107,7 +107,7 @@ The dashboard was built following the **Extract, Transform, Load (ETL)** methodo
 
 ## 🛠 Requirements
 - **Power BI Desktop** (latest version recommended)
-- Access to healthcare dataset (if reloading data)
+- Access to Hospital Waitlist Analysis dataset (if reloading data)
 
 ## 📜 Author
 - Developed by: Sandesh Shrivastava
